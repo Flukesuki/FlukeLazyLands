@@ -1,0 +1,29 @@
+filename = 'Draconic-Additions-1.21.1-2.5.2.3.jar'
+name = 'Draconic Additions'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Draconic-Additions-1.21.1-2.5.2.3.jar'
+
+[download]
+hash = 'baee44b63ee23586f5b69780cc0136a417905f62'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8000698
+project-id = 314515
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223565'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '231382'
+type = 'REQUIRED'

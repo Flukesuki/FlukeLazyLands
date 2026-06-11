@@ -1321,3 +1321,128 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "38b0c14dde4e7be01359cd055d63a997b0b73d993a153c2114fc3d090d827c51"
 metafile = true
+
+[[files]]
+file = "mods/applied-soul.pw.toml"
+hash = "6b87ae32bd8198b46dd69f92309999679cab660534f7908b6dd75e78dd515fbf"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "685eaf4947d21743008473dc758ac774cf7b32b2102c028d1afba9d64e758168"
+metafile = true
+
+[[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "6b73289f474ede045a2b36b5ecc079bbb24407e41dad4755938b4a9960d1fe29"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft-unofficial.pw.toml"
+hash = "4bbe79a08c2021b0b019869bad7d46a853cdddb5ffd00d6e55471fa3f658c1b9"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "c118089a97015091d0ba5604a38f8588637132373542608aa16332adbe0574d4"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "32ecbd7dc8e67474f5db0bf37329fac483cfa8a6e0733742dafff56e164c3bbf"
+metafile = true
+
+[[files]]
+file = "mods/construction-sticks.pw.toml"
+hash = "e13ee7e49adec670538e8471d52313f611511cd7af6b02ac7e4ad66bbe04ad21"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "167026c5cbff5d19baae9807c3c162fcde52beebaf208c8e8c26e742eea32cc0"
+metafile = true
+
+[[files]]
+file = "mods/draconicadditions.pw.toml"
+hash = "1d824679972f6a00af92cc0fcfbb939bb452ba570231e4ed6abee29b06f9dab6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "421b6533ced29d14ba80dc4f4f2b9ccb5b12908842699a70b45856ecf4fda49b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "313f03d94439b23d37afe63b440c48f1425975bc5df358073378f7062da7d119"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "eeedc8be355720070b65019d2d29188d291e713b2351a341606a88510992563d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "f1aa3dc8f0e818d5cf17ea1524c89522d05ebde7072e72c4811bf4460c0ddc1d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "12aacae22ac64809d1e63524f58459c7eb1297b57608bc952723e274e804a0bc"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "517a33c8b4a92673bfbbbcb9c261776237c35a0c6bfeae4761e7a6b63ca79d09"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing-souls.pw.toml"
+hash = "d8fe667ecf9004232076743100fb9c7848c20625d1c90417042ffa0364f79040"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "dc3bb21497f6032fa7f05d918e167797fdc8898aab390ad95c2bd7a7445e71ec"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "d5068d75ccf17c679f00f42325b1d06c321eb926ea02b4b1283798b708086f2a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-draconic-evolution.pw.toml"
+hash = "6747d4a4536d2f26b4c7726ad59e284816898602ac3aa194fccec2e8572261fb"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "4834e8eee97cce4778585ab4e17ca8c53b6d88d268db988140025e0785cab8ac"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture-tiered-crystals.pw.toml"
+hash = "4fe62e0a62f23b8f60e5253570009de6a777b735c7dc36920b4e17b324490e38"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "be290d6a669d49d2c7f76fd4bcb5b73cfe16cc82260db59fec746de871e6844c"
+metafile = true
+
+[[files]]
+file = "mods/re-avaritia.pw.toml"
+hash = "ac50528c3157a003b397292de8b6bd6f7d30d5aca1f7ecefc74d236847665162"
+metafile = true
+
+[[files]]
+file = "mods/soulplied-energistics.pw.toml"
+hash = "b99db188817295bfee0b0f6183a03a74c10342d855176aa94f317d1313fe5a68"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "a2b0f054ebe996b01c77a75c898d0db89cea023d93cb550379398aa226344ad4"
+metafile = true

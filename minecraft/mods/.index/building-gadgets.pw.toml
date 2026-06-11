@@ -1,0 +1,18 @@
+filename = 'buildinggadgets2-1.3.9.jar'
+name = 'Building Gadgets'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BuildingGadgets2-1.3.9'
+
+[download]
+hash = '666a155981e3cd231f67809b9e2a0238377bbbfc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6850515
+project-id = 298187

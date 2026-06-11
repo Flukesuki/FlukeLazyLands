@@ -1,0 +1,29 @@
+filename = 'appliedsoul-1.21.1-2.0.3.jar'
+name = 'Applied Soul'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'appliedsoul-1.21.1-2.0.3.jar'
+
+[download]
+hash = 'e8de7576611f6885a0d45dce41ca15bb6645a3f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7653184
+project-id = 1337114
+
+[[x-prismlauncher-dependencies]]
+addonId = '904394'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1143614'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'

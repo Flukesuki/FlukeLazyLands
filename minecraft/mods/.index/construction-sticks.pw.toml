@@ -1,0 +1,25 @@
+filename = 'ConstructionSticks-1.21.1-1.3.0.jar'
+name = 'Construction Sticks'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ConstructionSticks-1.21.1-1.3.0.jar'
+
+[download]
+hash = 'c73da674b08848c835ff45eadf47fdc8584fef82'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7687867
+project-id = 1156098
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

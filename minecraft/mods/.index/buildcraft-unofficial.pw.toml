@@ -1,0 +1,21 @@
+filename = 'BCunofficial-2026.1.0-rc4+mc1.21.1.jar'
+name = 'BuildCraft UNOFFICIAL'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2026.1.0 for 1.21.1 Release Candidate 4'
+
+[download]
+hash = '39d182d5ef34c6ef0437377285e95cb2d4e72d35'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8214591
+project-id = 1499367
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
