@@ -1,6 +1,6 @@
 filename = 'Thunderbolt_lib_1.21.1_neoforge_1.0.12.jar'
 name = 'Thunderbolt_lib'
-side = 'server'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,6 +1,6 @@
 filename = 'ae2lt-1.0.15.jar'
 name = 'AE2 Lightning Tech'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

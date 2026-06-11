@@ -1,6 +1,6 @@
 filename = 'Super Factory Manager (SFM)-MC1.21.1-4.32.0.jar'
 name = 'Super Factory Manager ( SFM )'
-side = 'server'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

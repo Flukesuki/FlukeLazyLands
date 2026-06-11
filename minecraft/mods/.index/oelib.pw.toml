@@ -1,6 +1,6 @@
 filename = 'OELib-neoforge-1.21.1-0.2.3.jar'
 name = 'One Enough Lib'
-side = 'server'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

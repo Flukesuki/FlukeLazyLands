@@ -1,6 +1,6 @@
 filename = 'ZeroCore2-1.21.1-2.4.21.jar'
 name = 'ZeroCore 2'
-side = 'server'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,6 +1,6 @@
 filename = 'ImmersiveEngineering-1.21.1-12.4.2-194.jar'
 name = 'Immersive Engineering'
-side = 'server'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

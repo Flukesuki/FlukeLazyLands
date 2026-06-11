@@ -1,6 +1,6 @@
 filename = 'Patchouli-1.21.1-93-NEOFORGE.jar'
 name = 'Patchouli'
-side = 'server'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

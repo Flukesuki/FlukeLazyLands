@@ -1,6 +1,6 @@
 filename = 'MekanismEnchantableMekasuit-1.21.1-1.0.3.jar'
 name = 'Mekanism: Enchantable MekaSuit'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
