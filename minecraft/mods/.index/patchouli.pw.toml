@@ -12,7 +12,6 @@ hash = '5413bb9b8fc35ebe46b06b48bf9afafbd8471140'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 
-
 [update.curseforge]
 file-id = 7730942
 project-id = 306770
