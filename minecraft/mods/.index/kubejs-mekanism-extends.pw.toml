@@ -1,0 +1,41 @@
+filename = 'kubejs_mekanism_extends-2101.0.1.jar'
+name = 'KubeJS Mekanism Extends'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'kubejs_mekanism_extends-2101.0.1.jar'
+
+[download]
+hash = '24bba058ea8ced67af4476466e62406e972b8041'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7938584
+project-id = 1516364
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1230085'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1480927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '418651'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1275257'
+type = 'OPTIONAL'
