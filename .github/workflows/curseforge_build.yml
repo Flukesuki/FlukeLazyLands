@@ -35,6 +35,13 @@ jobs:
       - name: 3. 安装 packwiz
         run: go install github.com/packwiz/packwiz@latest
 
+      - name: Restore indexed mods
+        run: |
+          if [ -d mods/.index ]; then
+            cp -a mods/.index/. mods/
+            rm -rf mods/.index
+          fi
+
       - name: 4. 导出 Curseforge 整合包
         id: export
         run: |
