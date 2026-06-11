@@ -1,0 +1,20 @@
+#If true: failed pattern uploads fall back to the pattern edit slot first. If false: fall back to the pattern cache first.
+patternUploadFailFallbackToEditor = true
+#If false: disable WCWT JEI/EMI recipe pull and encoding transfer handling, including preview highlights.
+enableRecipePullTransfer = true
+#If true: JEI/EMI recipe transfers switch the manual workspace to crafting or smithing when the recipe type is known.
+autoSwitchManualWorkspaceOnRecipeTransfer = true
+#If false: pattern management shift quick moves use normal clicks only. Saving wcwt-client.toml usually reloads without restart.
+patternManagementShiftQuick = true
+#If true: the batch pattern multiplier also applies to the current processing pattern in the pattern editor. Saving wcwt-client.toml usually reloads without restart.
+patternMultiplierApplyToEditorProcessing = true
+#If true: when JEI transfers ingredients into the WCWT pattern encoding area, matching items from the JEI bookmark list are preferred first, in bookmark order. If false: use the existing WCWT/AE2 selection logic only.
+preferJeiBookmarksForPatternEncoding = true
+#If true: opening the toolkit expands it in the pattern management area instead of the right-side panel. Saving wcwt-client.toml usually reloads without restart.
+expandToolkitInManagementArea = false
+#Remembers whether the management-area toolkit was open the last time this client closed the terminal.
+lastManagementToolkitOpen = false
+#If true: favorited ME terminal entries are displayed before non-favorited entries in WCWT.
+favoritedItemsFirst = false
+#Serialized client-side favorite AE keys for WCWT terminal sorting and overlays.
+favoritedKeys = []

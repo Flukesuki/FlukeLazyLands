@@ -1,0 +1,18 @@
+filename = 'Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar'
+name = 'Mod Menu (NeoForge Edition)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Mod Menu (NeoForge Edition) 1.0.2-1.21.1'
+
+[download]
+hash = '075a0d5f30d1228f998e50c79e703bbd3037a836'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7312908
+project-id = 1393224

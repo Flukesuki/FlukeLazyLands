@@ -1,0 +1,18 @@
+filename = 'Iceberg-1.21.1-neoforge-1.3.2.jar'
+name = 'Iceberg [Neo/Forge]'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Iceberg-1.21.1-neoforge-1.3.2.jar'
+
+[download]
+hash = 'f6014d198be9503573cd9cb41cc789d282768ad8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 6423863
+project-id = 520110

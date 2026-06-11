@@ -1,0 +1,25 @@
+filename = 'kubejs_enderio-neoforge-1.21.1-0.13.0.jar'
+name = 'KubeJS EnderIO'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'KubeJS-EnderIO-NeoForge-1.21.1-0.13.0'
+
+[download]
+hash = '37a773eec0df4e878222fa70e7f277dd733b3211'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7743899
+project-id = 910379
+
+[[x-prismlauncher-dependencies]]
+addonId = '64578'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'

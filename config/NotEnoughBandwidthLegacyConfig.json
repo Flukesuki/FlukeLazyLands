@@ -1,0 +1,23 @@
+{
+  "compatibleMode": false,
+  "blackList": [
+    "minecraft:chat_command_signed",
+    "minecraft:player_info_remove",
+    "minecraft:player_info_update",
+    "minecraft:command_suggestion",
+    "minecraft:commands",
+    "minecraft:chat_command",
+    "minecraft:command_suggestions"
+  ],
+  "debugLog": false,
+  "contextLevel": 23,
+  "dccEnabled": true,
+  "dccSizeLimit": 200,
+  "dccDistance": 5,
+  "dccTimeout": 60,
+  "maxPacketSize": "4MB",
+  "maxPacketSizeByte": -1,
+  "playersDoNotUseContext": [
+    "00000000-0000-0000-0000-000000000000"
+  ]
+}

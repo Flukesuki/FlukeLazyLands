@@ -1,0 +1,18 @@
+filename = 'ImmersiveEngineering-1.21.1-12.4.2-194.jar'
+name = 'Immersive Engineering'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ImmersiveEngineering-1.21.1-12.4.2-194'
+
+[download]
+hash = 'a4e90c2df8009040f6d022433c5d76635944dd59'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 6733669
+project-id = 231951

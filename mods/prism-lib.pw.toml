@@ -1,0 +1,18 @@
+filename = 'Prism-1.21.1-neoforge-1.0.11.jar'
+name = 'Prism [Neo/Forge]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Prism-1.21.1-neoforge-1.0.11.jar'
+
+[download]
+hash = '1ae6f7be2ba8f963344dbf27e552920a7bc7a35f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 6372979
+project-id = 638111

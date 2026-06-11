@@ -1,0 +1,25 @@
+filename = 'merequester-neoforge-1.21.1-1.4.2.jar'
+name = 'ME Requester'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MERequester-NeoForge-1.21.1-1.4.2'
+
+[download]
+hash = '22c87905f348dc4cbe6ef69d1d877d4e6ebcadee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7844592
+project-id = 688367
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '459929'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+#Post a vanilla crafting event (ItemCraftedEvent) when the Crafting System finishes a recipe.
+#May introduce extra event/listener overhead; can be more noticeable with mods like Balm installed.
+postCraftingEvent = false
+
+#Multiblock structure size limits.
+[structure]
+	#Maximum length (in blocks) allowed for the Crafting System multiblock.
+	#Higher values allow longer expansions but may increase structure check cost.
+	# Default: 15
+	# Range: > 5
+	craftingSystemMaxLength = 15
+	#Maximum length (in blocks) allowed for the Computation System multiblock.
+	#Higher values allow longer expansions but may increase structure check cost.
+	# Default: 15
+	# Range: > 5
+	computationSystemMaxLength = 15
+	#Maximum length (in blocks) allowed for the Storage System multiblock.
+	#Higher values allow longer expansions but may increase structure check cost.
+	# Default: 15
+	# Range: > 4
+	storageSystemMaxLength = 15

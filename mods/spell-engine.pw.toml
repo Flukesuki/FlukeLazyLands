@@ -1,0 +1,37 @@
+filename = 'spell_engine-neoforge-1.9.9+1.21.1.jar'
+name = 'Spell Engine'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'spell_engine-neoforge-1.9.9+1.21.1.jar'
+
+[download]
+hash = '0469717da1a4870641f70fdd19955fc97bb8ce97'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7789251
+project-id = 807653
+
+[[x-prismlauncher-dependencies]]
+addonId = '889079'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '658587'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '771265'
+type = 'REQUIRED'

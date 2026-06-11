@@ -1,0 +1,25 @@
+filename = 'jeimultiblocks-1.21.1-1.0.6.jar'
+name = 'Just Enough Immersive Multiblocks'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'jeimultiblocks-1.21.1-1.0.6.jar'
+
+[download]
+hash = '3c0a8b4823083151572656c702e5a2b45720ab4f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7131196
+project-id = 634571
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '231951'
+type = 'REQUIRED'

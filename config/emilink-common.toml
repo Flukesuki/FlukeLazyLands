@@ -1,0 +1,39 @@
+[general]
+	#Enable debug logging and debug chat messages
+	debugMode = false
+
+[cache]
+	#AE network cache TTL in milliseconds (100-60000)
+	# Default: 5000
+	# Range: 100 ~ 60000
+	cacheTTLMs = 5000
+	#Negative cache (item not found) TTL in milliseconds (100-120000)
+	# Default: 10000
+	# Range: 100 ~ 120000
+	negativeCacheTTLMs = 10000
+	#Hover debounce time in milliseconds (50-5000)
+	# Default: 250
+	# Range: 50 ~ 5000
+	debounceMs = 250
+	#Batch query flush interval in milliseconds (200-10000). How often pending AE queries are batched and sent to the server.
+	# Default: 5000
+	# Range: 200 ~ 10000
+	batchFlushMs = 5000
+
+[bookmark_priority]
+	#When encoding processing patterns via EMI recipe transfer, prioritize items from the EMI favorites bar over network-inventory-selected items
+	bookmarkPriority = true
+
+[features]
+	#Enable wrap processing pattern output as written book (WB mode)
+	enableWrapBook = true
+	#Show AE network status corner badges on EMI item icons (green=in stock, yellow=craftable only)
+	enableNetworkBadges = false
+	#Badge rendering style when network badges are enabled: 1 = bottom-right 6x6 filled square, 2 = top-left 6x6 hollow border
+	# Default: 1
+	# Range: 1 ~ 2
+	networkBadgeStyle = 1
+
+[network]
+	#Limit debug-related packets to 1 per tick to prevent congestion
+	enableDebugPacketLimit = true

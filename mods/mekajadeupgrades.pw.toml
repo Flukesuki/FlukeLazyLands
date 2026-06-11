@@ -1,0 +1,37 @@
+filename = 'mekajadeupgrade-1.3.jar'
+name = 'MekaJadeUpgrades (Mekanism addon)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3-21.1'
+
+[download]
+hash = '5ae42c638c56fd0f29437c26a1be5faa76f3b172'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7588752
+project-id = 1400118
+
+[[x-prismlauncher-dependencies]]
+addonId = '1256390'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1230085'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1026040'
+type = 'OPTIONAL'

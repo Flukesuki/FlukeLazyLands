@@ -1,0 +1,314 @@
+{
+  "enabled": true,
+  "melee_weapons": {
+    "enabled": true,
+    "blacklist": "#spell_engine:non_combat_tools",
+    "enable_specifiers": true,
+    "specifiers": [
+      {
+        "item": "#rpg_series:weapon_type/claymore",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:flurry"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~claymore|great_sword|greatsword",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:flurry"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/hammer",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:ground_slam"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~great_hammer|greathammer|war_hammer|warhammer|maul",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:ground_slam"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/double_axe",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:whirlwind"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~double_axe|doubleaxe|war_axe|waraxe|great_axe|greataxe",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:whirlwind"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/glaive",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:thrust"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~glaive",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:thrust"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/spear",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:impale"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~spear",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:impale"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/sickle",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:swipe"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~sickle",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:swipe"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/dagger",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:fan_of_knives"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~dagger|knife",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:fan_of_knives"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/mace",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:smash"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~mace|hammer|flail",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:smash"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#minecraft:axes",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:cleave"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~_axe",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:cleave"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "#rpg_series:weapon_type/sword",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:swift_strikes"
+          ],
+          "extra_tier_binding": 0
+        }
+      },
+      {
+        "item": "~sword|blade",
+        "container": {
+          "access": "MAGIC",
+          "access_param": "",
+          "pool": "",
+          "slot": "",
+          "max_spell_count": 0,
+          "spell_ids": [
+            "rpg_series:swift_strikes"
+          ],
+          "extra_tier_binding": 0
+        }
+      }
+    ],
+    "defaults": {
+      "access": "MAGIC",
+      "access_param": "",
+      "pool": "",
+      "slot": "",
+      "max_spell_count": 0,
+      "spell_ids": [],
+      "extra_tier_binding": 0
+    }
+  },
+  "ranged_weapons": {
+    "enabled": true,
+    "blacklist": "",
+    "enable_specifiers": true,
+    "specifiers": [],
+    "defaults": {
+      "access": "ARCHERY",
+      "access_param": "",
+      "pool": "",
+      "slot": "",
+      "max_spell_count": 0,
+      "spell_ids": [],
+      "extra_tier_binding": 0
+    }
+  }
+}

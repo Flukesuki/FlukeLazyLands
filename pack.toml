@@ -1,0 +1,13 @@
+name = "FlukeLazyLands"
+author = "Flukesuki and more"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "232d5a5ce64dfe50182983a087849907f88e400e515191c788465105019f0cad"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

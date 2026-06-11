@@ -1,0 +1,21 @@
+filename = 'spell_power-neoforge-1.4.6+1.21.1.jar'
+name = 'Spell Power Attributes'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'spell_power-neoforge-1.4.6+1.21.1.jar'
+
+[download]
+hash = '2b8b01cffb2a5774b180b618630bd34cff2f9d54'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7303957
+project-id = 771265
+
+[[x-prismlauncher-dependencies]]
+addonId = '889079'
+type = 'REQUIRED'

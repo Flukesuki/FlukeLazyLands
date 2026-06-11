@@ -1,0 +1,21 @@
+filename = 'noreteams-0.1.2.jar'
+name = 'NoreTeams'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'noreteams-0.1.2.jar'
+
+[download]
+hash = '894b29ce0d6bbd2d30456eb488ee2bd1e6a75276'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 8156125
+project-id = 1540081
+
+[[x-prismlauncher-dependencies]]
+addonId = '636608'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'MekanismEnchantableMekasuit-1.21.1-1.0.3.jar'
+name = 'Mekanism: Enchantable MekaSuit'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MekanismEnchantableMekasuit-1.21.1-1.0.3.jar'
+
+[download]
+hash = '968b1cdf4435390db4dbcf5e6bcdb281ca2b11fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 8199739
+project-id = 1323655
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'

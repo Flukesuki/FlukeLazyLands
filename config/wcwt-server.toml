@@ -1,0 +1,4 @@
+#Toolkit slot count. Minimum 11 keeps the dedicated tool slots available.
+# Default: 64
+# Range: 11 ~ 640
+toolkitSlotCount = 64

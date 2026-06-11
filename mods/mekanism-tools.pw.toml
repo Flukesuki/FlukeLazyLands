@@ -1,0 +1,21 @@
+filename = 'MekanismTools-1.21.1-10.7.19.85.jar'
+name = 'Mekanism Tools'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MekanismTools-1.21.1-10.7.19.85.jar'
+
+[download]
+hash = '4433b3eec0a5a0bf415d873e710a1cecea5850bc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7904062
+project-id = 268567
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'

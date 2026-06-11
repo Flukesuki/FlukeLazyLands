@@ -1,0 +1,3 @@
+[noreteams]
+	#Enables temporary fake-player testing commands under /noreteams debug.
+	enableDebugCommands = false

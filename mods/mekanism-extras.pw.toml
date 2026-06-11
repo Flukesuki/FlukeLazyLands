@@ -1,0 +1,29 @@
+filename = 'mekanism_extras-1.21.1-1.4.0.jar'
+name = 'Mekanism Extras'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'mekanism_extras-1.21.1-1.4.0.jar'
+
+[download]
+hash = 'c7447c0c7fd08527f373538d31f88a7cfec61c47'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7921191
+project-id = 1026040
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '267602'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268566'
+type = 'OPTIONAL'

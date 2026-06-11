@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"pneumaticcraft:thermopneumatic_processing_plant"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:refinery_output"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:advanced_liquid_compressor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:advanced_air_compressor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:refinery"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:fluid_mixer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

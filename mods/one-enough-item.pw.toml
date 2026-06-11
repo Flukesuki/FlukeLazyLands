@@ -1,0 +1,21 @@
+filename = 'oneenoughitem-neoforge-1.21.1-1.0.8.jar'
+name = 'One Enough Item'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'oneenoughitem-neoforge-1.21.1-1.0.8.jar'
+
+[download]
+hash = 'c1acb64060602f5a9c7397224832d1ef75f9146b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 7939114
+project-id = 1312660
+
+[[x-prismlauncher-dependencies]]
+addonId = '1319210'
+type = 'REQUIRED'

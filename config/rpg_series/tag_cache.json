@@ -1,0 +1,32 @@
+{
+  "cache": {
+    "rpg_series:loot_tier/tier_1_accessories": [],
+    "rpg_series:archetype/healing_weapon": [],
+    "rpg_series:loot_tier/tier_4_armors": [],
+    "rpg_series:loot_tier/tier_5_armors": [],
+    "rpg_series:loot_tier/tier_3_armors": [],
+    "rpg_series:loot_tier/tier_0_accessories": [],
+    "rpg_series:loot_tier/tier_1_armors": [],
+    "rpg_series:loot_tier/tier_1_weapons": [],
+    "rpg_series:archetype/ranged_damage_weapon": [],
+    "rpg_series:loot_tier/tier_2_armors": [],
+    "rpg_series:loot_tier/tier_0_weapons": [],
+    "rpg_series:archetype/defense_weapon": [],
+    "rpg_series:loot_tier/tier_2_accessories": [],
+    "rpg_series:loot_tier/tier_4_accessories": [],
+    "rpg_series:loot_tier/tier_3_accessories": [],
+    "rpg_series:archetype/melee_damage_weapon": [],
+    "rpg_series:archetype/magic_damage_weapon": [],
+    "rpg_series:loot_theme/aether": [],
+    "rpg_series:loot_theme/dragon": [],
+    "rpg_series:loot_tier/tier_1_relics": [],
+    "rpg_series:loot_tier/tier_2_weapons": [],
+    "rpg_series:loot_tier/tier_3_weapons": [],
+    "rpg_series:loot_tier/tier_4_weapons": [],
+    "rpg_series:loot_theme/golden_weapon": [],
+    "rpg_series:loot_tier/tier_3_relics": [],
+    "rpg_series:loot_tier/tier_5_weapons": [],
+    "rpg_series:loot_tier/tier_2_relics": [],
+    "rpg_series:loot_tier/tier_4_relics": []
+  }
+}

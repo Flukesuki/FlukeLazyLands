@@ -1,0 +1,29 @@
+filename = 'wcwt-1.2.1.jar'
+name = 'AE2 WCWT'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'wcwt-1.2.1.jar'
+
+[download]
+hash = 'b872a6088958a2e6f4831b38e76ae18215598b25'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+
+[update.curseforge]
+file-id = 8174950
+project-id = 1546802
+
+[[x-prismlauncher-dependencies]]
+addonId = '459929'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '892005'
+type = 'REQUIRED'
