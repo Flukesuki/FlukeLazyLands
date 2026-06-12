@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'soulplied_energistics-1.0.2.jar'
 hash = '526f45d5f110d23932d88ac12bf979f5c2f569b6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 6771121

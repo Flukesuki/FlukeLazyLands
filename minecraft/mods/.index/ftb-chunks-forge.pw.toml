@@ -10,7 +10,7 @@ x-prismlauncher-version-number = '[NEOFORGE][1.21.1] FTB Chunks 2101.1.17'
 hash = '6578a2d0c08038f3c218caf215a82715de09bf5f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8216875

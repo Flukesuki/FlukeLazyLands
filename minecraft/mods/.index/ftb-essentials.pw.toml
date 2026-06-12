@@ -10,7 +10,7 @@ x-prismlauncher-version-number = '[NEOFORGE][1.21.1] FTB Essentials 2101.1.9'
 hash = '7d6f274b38d767215549ec066246390c49ac7ad8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7608733

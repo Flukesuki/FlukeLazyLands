@@ -11,7 +11,7 @@ x-prismlauncher-version-number = 'CodeChicken Lib 1.21.1-4.6.1.526'
 hash = '6a278b5a2788c2fee7ae52d17f24187332d436b2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7281427

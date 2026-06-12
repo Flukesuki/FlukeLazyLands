@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'MysticalAgriculture-1.21.1-8.0.26.jar'
 hash = '4f341e3e6d7f10a56bdd20105e980cce914eee6d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8035819

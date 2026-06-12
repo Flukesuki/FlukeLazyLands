@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'Controlling-neoforge-1.21.1-19.0.5.jar'
 hash = '8a34424fc1428778be2fdbfa4da67b21b70bcbfe'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 6368976

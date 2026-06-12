@@ -11,7 +11,7 @@ x-prismlauncher-version-number = 'DefaultWorldType-1.21-5.0.4.jar'
 hash = 'ee1a6664e67858b64f1e95ebbfcd6fa1e3111069'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 6821633

@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'Re-Avaritia-neoforge-1.21.1-1.3.9.9-release-fi
 hash = '7f8f8f63c7b26769f7ee4503cc5fb38085d0a0ac'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8099035

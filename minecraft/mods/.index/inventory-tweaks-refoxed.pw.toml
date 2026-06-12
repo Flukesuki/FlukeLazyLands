@@ -11,7 +11,7 @@ x-prismlauncher-version-number = 'invtweaks-1.21.1-1.3.2.jar'
 hash = '76969e26520ab060d51515757db25282bed71b10'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 6407807

@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'ImmersivePetroleum-1.21.1-4.4.1-37.jar'
 hash = '1bbdd16fe59428cabe5a2ea7c3f01b2f2e010c88'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7512548

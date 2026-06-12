@@ -11,7 +11,7 @@ x-prismlauncher-version-number = 'titanium-1.21-4.0.43.jar'
 hash = 'e2f62d1bcdd38dd91679a2114e9946d9415746ee'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7951516

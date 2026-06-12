@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'Draconic-Additions-1.21.1-2.5.2.3.jar'
 hash = 'baee44b63ee23586f5b69780cc0136a417905f62'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8000698

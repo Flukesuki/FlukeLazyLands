@@ -10,7 +10,7 @@ x-prismlauncher-version-number = "[Neoforge] FTB Chunks x Xaero's Map Compat 1.1
 hash = '6923ae95bdde32d8b504364ea125969cc7d6cb2e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8103626

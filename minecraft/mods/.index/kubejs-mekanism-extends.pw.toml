@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'kubejs_mekanism_extends-2101.0.1.jar'
 hash = '24bba058ea8ced67af4476466e62406e972b8041'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7938584
