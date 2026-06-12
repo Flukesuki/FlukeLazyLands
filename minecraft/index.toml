@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "PackWorkbench-1.0.1-all.jar"
-hash = "faab3304e63177cdcfc3d9d49baeb9499a16e019e9155ad142bf175b0d518a9d"
-
-[[files]]
 file = "config/Mekanism-Extras/general.toml"
 hash = "f44e81fbc432790d3e14c68735fe423eb24ac0288b1f28fd6bdbe3dc65f799d3"
 
