@@ -229,6 +229,18 @@ file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
 
 [[files]]
+file = "config/defaultworldtype/biomes.txt"
+hash = "05b43823fe2773d55ec459b2fe401a0550be081b75e0c73071c8556cc840c57d"
+
+[[files]]
+file = "config/defaultworldtype/client-config.toml"
+hash = "f43ef25a85b6d08b9ffe03d521edc1b1f4f38a3be7f71c6707126c1e682bb40c"
+
+[[files]]
+file = "config/defaultworldtype/world-presets.txt"
+hash = "7e047922a0d53a41d412ce04207388ca9ff96c26fb72942c2409c0e2420167e0"
+
+[[files]]
 file = "config/emi-accelerator/emi-accelerator.txt"
 hash = "64dea05424eb8f2ff16cc25ac93e7a2b7db550f2ac6151ce63644a2ec341d799"
 
@@ -569,10 +581,6 @@ file = "config/oelib/oelib_festivals.toml"
 hash = "00995b2c81ea5022fb30c84244f47c99d3e5bba7193bca92b15d0d96ea9c3ec6"
 
 [[files]]
-file = "config/openpartiesandclaims-server.toml"
-hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
-
-[[files]]
 file = "config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 
@@ -686,11 +694,15 @@ hash = "aa026d2edeabe2fdb6247ae4e01afde020746d313011ce28e71eb8ad81b5d9e5"
 
 [[files]]
 file = "config/skyblockbuilder/templates.json5"
-hash = "0682d6c584ea48dac09ef6639e329ac197cde1bf45a90bcadbcbcae69734c2ea"
+hash = "55e72e1a82842e4f94c8b08d9ab9ecb322cde858bed8c05641f1b799c4dd76e3"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/default.nbt"
 hash = "835c5e52662f162ad1fba6307d815cc36eece016bedda08e4152c5a9a15893dc"
+
+[[files]]
+file = "config/skyblockbuilder/templates/islands/gardenofglass.nbt"
+hash = "fb260b3df88a2fb064003dc023b8b166f06595d9f91a14eb2808e92f26f00246"
 
 [[files]]
 file = "config/skyblockbuilder/templates/portals/information.txt"
@@ -821,6 +833,10 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/flukesuki_pebble.png"
+hash = "7518d22dd45500c0bd6bb27cc4d990076540072b4dcba0dd0bba2dcd5a07c778"
+
+[[files]]
 file = "kubejs/config/client.json"
 hash = "ffeec24cd6a9e10758c7a22860688ed3c67bc023debf400e129a35d4318a6f7a"
 
@@ -841,8 +857,12 @@ file = "kubejs/server_scripts/BlockEventRightClick.js"
 hash = "3db5594e924b2470805cd756298a74da9c4e1d79d6b7592afcff3081fb826c05"
 
 [[files]]
+file = "kubejs/server_scripts/Recipe.js"
+hash = "e3058207b6fb82e7de1da5be55f8491184c749a6766f22b27252b8e0a16c6016"
+
+[[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "35fe01ced9b5758486b6dc39e285e9727eb635a2b788a92aafb5d863e76934b3"
+hash = "5629201331a2cdf35c6063f985aa205ef98c8ff8a988848368861e9055474661"
 
 [[files]]
 file = "mods/.index/accelerated-recoiling.pw.toml"
@@ -992,6 +1012,11 @@ metafile = true
 [[files]]
 file = "mods/.index/curios.pw.toml"
 hash = "507a585e94f6ff38c8976e2a348ab3328368bde60320d870f6a20c5af5444a09"
+metafile = true
+
+[[files]]
+file = "mods/.index/defaultworldtype.pw.toml"
+hash = "4a5f1cf7c03e09e5e699eb61973aeb88f93409691bccdd82c3c397a33f05364c"
 metafile = true
 
 [[files]]
@@ -1465,7 +1490,3 @@ hash = "89bdfd44a580c728149f7d56dfcc19fdfa72cedfa4f2aee7586e3411562b540a"
 [[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
 hash = "4c2181f99049844e71349913aaf3fea8b58ce081fee952616767676d1b6fa3b1"
-
-[[files]]
-file = "启动打包.bat"
-hash = "cc3d80fde4c292849ed8694f26762758c97095947c584fd78899ec6862490fb3"
