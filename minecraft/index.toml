@@ -545,10 +545,6 @@ file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
-file = "config/noreteams-common.toml"
-hash = "b5fd6ae1401d625f564df395ab6cd7115e89975c322b2ddbb0ea46676adecc2c"
-
-[[files]]
 file = "config/nuclearcraftneohaul-common.toml"
 hash = "85810200307b156e1c07dbc89bbc0bf0d0dc4e6c54d3360572e3fb8dec3324d3"
 
@@ -567,10 +563,6 @@ hash = "0967a64c8d6d2e3ba6e5ddae440b21458aeb2315b12f6a374bd1295c3b594de5"
 [[files]]
 file = "config/oelib/oelib_festivals.toml"
 hash = "00995b2c81ea5022fb30c84244f47c99d3e5bba7193bca92b15d0d96ea9c3ec6"
-
-[[files]]
-file = "config/openpartiesandclaims-server.toml"
-hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1183,11 +1175,6 @@ hash = "0006c731f11ca830edcc4a8e89eaa86b7ef97e73358f73bf974dc5344a29f227"
 metafile = true
 
 [[files]]
-file = "mods/noreteams.pw.toml"
-hash = "cdf5f72d523bf62575993e97d9548e6e161c2d6772802be6bb649ed19d089342"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-bandwidth-legacy.pw.toml"
 hash = "d686aa447a763ff817ee7345c3adb9881c105713464255f122076c92ab4a0801"
 metafile = true
@@ -1205,11 +1192,6 @@ metafile = true
 [[files]]
 file = "mods/one-enough-item.pw.toml"
 hash = "55a679800472b722d9ae93e2a27d74886915dd52231bd246864e9e214878286f"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "ed353d3b0ed2eaebe2783499ae272aa773a0513203e11a3da34a6e899c17d189"
 metafile = true
 
 [[files]]
@@ -1470,4 +1452,24 @@ metafile = true
 [[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "881b9a3412362a61b5ba05357334cb6c6116cca9672aa6c15cedf61c22804cbd"
+metafile = true
+
+[[files]]
+file = "mods/ftbxaerocompat.pw.toml"
+hash = "6dd2464c3ab7173137e89d352cef7dc5127f6abc3f3452246fe501be3640a2a8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "8bef38cc95075177021b5669a37573bc4d47ead7c3092b57790e7ba50b22b8fc"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "3dbc8e25f6880cb3a4982911c5c2596b373ffae80d117b5137c38b03dae73820"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "fe52ac4dc9368833269017db63005d36b1afadbd0e91e0389ec4987eb5cec525"
 metafile = true
