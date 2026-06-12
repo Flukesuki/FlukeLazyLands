@@ -10,7 +10,7 @@ x-prismlauncher-version-number = '[NEOFORGE][1.21.1] FTB Quests 2101.1.26'
 hash = '831328b1f1aefc3b9ce5b7ff8c799a6610ccc1ab'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8216578

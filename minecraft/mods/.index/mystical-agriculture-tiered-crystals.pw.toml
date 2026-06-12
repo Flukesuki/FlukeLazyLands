@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'matc-1.7.1.jar'
 hash = 'ca1227efed35a55414ca03159e1e31ec70288d3a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 5863210

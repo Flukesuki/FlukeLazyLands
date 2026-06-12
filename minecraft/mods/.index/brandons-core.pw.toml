@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'Brandons Core 1.21.1-3.2.1.309'
 hash = 'ef00bdaaca4e469cc3925d573434d2f84b9d8a14'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7130990

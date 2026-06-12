@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'appliedsoul-1.21.1-2.0.3.jar'
 hash = 'e8de7576611f6885a0d45dce41ca15bb6645a3f5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7653184

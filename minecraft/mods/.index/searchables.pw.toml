@@ -11,7 +11,7 @@ x-prismlauncher-version-number = 'Searchables-neoforge-1.21.1-1.0.2.jar'
 hash = '5b8a0b43a474c066371b2e16f9bfb88622552a74'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 5831692

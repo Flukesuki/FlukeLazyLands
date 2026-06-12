@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'industrial-foregoing-souls-1.21.1-1.10.7.jar'
 hash = 'ff5def0fd52ac755103a4871aafcf0b80f5a1a51'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7441306

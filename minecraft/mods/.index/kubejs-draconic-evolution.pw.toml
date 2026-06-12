@@ -11,7 +11,7 @@ x-prismlauncher-version-number = 'kubejsde-1.21.1-1.1.0.jar'
 hash = '3417109d0d6973bcafc22d646dbb4f3b5f47b761'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7202487

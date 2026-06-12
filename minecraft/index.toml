@@ -229,6 +229,18 @@ file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
 
 [[files]]
+file = "config/defaultworldtype/biomes.txt"
+hash = "9d88712ea5d3e1ff2197993088ce1f9a8e9895ff42c8204e1685c9783922e4a2"
+
+[[files]]
+file = "config/defaultworldtype/client-config.toml"
+hash = "f43ef25a85b6d08b9ffe03d521edc1b1f4f38a3be7f71c6707126c1e682bb40c"
+
+[[files]]
+file = "config/defaultworldtype/world-presets.txt"
+hash = "d22483a3b865b78df2686656450a8a617ad41c3b1560ef00064f08ea9016c61d"
+
+[[files]]
 file = "config/emi-accelerator/emi-accelerator.txt"
 hash = "64dea05424eb8f2ff16cc25ac93e7a2b7db550f2ac6151ce63644a2ec341d799"
 
@@ -569,10 +581,6 @@ file = "config/oelib/oelib_festivals.toml"
 hash = "00995b2c81ea5022fb30c84244f47c99d3e5bba7193bca92b15d0d96ea9c3ec6"
 
 [[files]]
-file = "config/openpartiesandclaims-server.toml"
-hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
-
-[[files]]
 file = "config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 
@@ -686,11 +694,15 @@ hash = "aa026d2edeabe2fdb6247ae4e01afde020746d313011ce28e71eb8ad81b5d9e5"
 
 [[files]]
 file = "config/skyblockbuilder/templates.json5"
-hash = "0682d6c584ea48dac09ef6639e329ac197cde1bf45a90bcadbcbcae69734c2ea"
+hash = "55e72e1a82842e4f94c8b08d9ab9ecb322cde858bed8c05641f1b799c4dd76e3"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/default.nbt"
 hash = "835c5e52662f162ad1fba6307d815cc36eece016bedda08e4152c5a9a15893dc"
+
+[[files]]
+file = "config/skyblockbuilder/templates/islands/gardenofglass.nbt"
+hash = "fb260b3df88a2fb064003dc023b8b166f06595d9f91a14eb2808e92f26f00246"
 
 [[files]]
 file = "config/skyblockbuilder/templates/portals/information.txt"
@@ -821,6 +833,10 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/flukesuki_pebble.png"
+hash = "7518d22dd45500c0bd6bb27cc4d990076540072b4dcba0dd0bba2dcd5a07c778"
+
+[[files]]
 file = "kubejs/config/client.json"
 hash = "ffeec24cd6a9e10758c7a22860688ed3c67bc023debf400e129a35d4318a6f7a"
 
@@ -841,8 +857,12 @@ file = "kubejs/server_scripts/BlockEventRightClick.js"
 hash = "3db5594e924b2470805cd756298a74da9c4e1d79d6b7592afcff3081fb826c05"
 
 [[files]]
+file = "kubejs/server_scripts/Recipe.js"
+hash = "e3058207b6fb82e7de1da5be55f8491184c749a6766f22b27252b8e0a16c6016"
+
+[[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "35fe01ced9b5758486b6dc39e285e9727eb635a2b788a92aafb5d863e76934b3"
+hash = "5629201331a2cdf35c6063f985aa205ef98c8ff8a988848368861e9055474661"
 
 [[files]]
 file = "mods/.index/accelerated-recoiling.pw.toml"
@@ -861,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/actually-additions.pw.toml"
-hash = "fe4e044611d4aa304fb8a45f818b5963b985f25e369577f9fb5f43531144c1ac"
+hash = "f1195da2488e8f1166fb4c38ce5256c6dd322b8c1c5b80484d615b5a6b91db4f"
 metafile = true
 
 [[files]]
@@ -926,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/applied-soul.pw.toml"
-hash = "9e1e5cf3ded18e2b1a6d36368c59df6377fcc11d6e0f1b0b3b3157e42f47c999"
+hash = "4e92362c0155be7195247c5cc1bd8bd46deb10da806fd3985e5da7811a8c56c5"
 metafile = true
 
 [[files]]
@@ -936,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/architectury-api.pw.toml"
-hash = "0a494d3c16752cdbfa0f5ba25f3c6887d470ae4b7df83739b737ccf90a3c4ab3"
+hash = "4dc3a3d821491ce0eadb1f0ad24f574ffdee2388aa3b9a98648a7d2bc8af2689"
 metafile = true
 
 [[files]]
@@ -946,17 +966,17 @@ metafile = true
 
 [[files]]
 file = "mods/.index/brandons-core.pw.toml"
-hash = "b9f212973f5cbc2269050c8f301927ffa3d8de536efe78a77d50a8c1d0f05969"
+hash = "fc0ed831eb49047eaeae0a69a3707d5a7a96a0a255ab09a24c0773977fc5b0be"
 metafile = true
 
 [[files]]
 file = "mods/.index/buildcraft-unofficial.pw.toml"
-hash = "9d71be3ecba1480757f541c195ef0b7d58dc7bb8c09b29c2e269d0c4596cdeba"
+hash = "07efe1a5b9a372a585afd58dd9d0fb8907d2ebdfcb51ee7599c30d790e91387a"
 metafile = true
 
 [[files]]
 file = "mods/.index/building-gadgets.pw.toml"
-hash = "49576921b8004e134b9a9624f105e2487576a71f9eb64140d2c8726b1b6657cc"
+hash = "d22196e0bc7087d36d2cb3eb6a06d520fff9492716b579b6ab523e8e1fd934a1"
 metafile = true
 
 [[files]]
@@ -971,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/codechicken-lib-1-8.pw.toml"
-hash = "6df762810e1f76bef4468c959ada512fb3be559fb2a6afecd05505694d46b916"
+hash = "9e4e5d713f4f8ec03ffad01cd54a9e01095d31a77b58a97f58188b4093be118c"
 metafile = true
 
 [[files]]
@@ -981,12 +1001,12 @@ metafile = true
 
 [[files]]
 file = "mods/.index/construction-sticks.pw.toml"
-hash = "fb4743a6178bb6b147b5456933f92707bf2cb11ab3d145ad12c45b77a739636d"
+hash = "caf30ab4bad9c13c848323513e9d8bfbb08b747f5eed4983169111e5372e1f5d"
 metafile = true
 
 [[files]]
 file = "mods/.index/controlling.pw.toml"
-hash = "4ea3cc0f290a6b3de5fa6697a4094a67063c619598e46c3479ce1be88827ba63"
+hash = "831f5a7bbe2ba63f5f415b1ca19f7645325d314e1e62d0009b136c765babad2a"
 metafile = true
 
 [[files]]
@@ -1005,13 +1025,18 @@ hash = "507a585e94f6ff38c8976e2a348ab3328368bde60320d870f6a20c5af5444a09"
 metafile = true
 
 [[files]]
+file = "mods/.index/defaultworldtype.pw.toml"
+hash = "bafd96ae4bc4a2d484e09fd70e74939da0f298644456b2499a41a2cd77936125"
+metafile = true
+
+[[files]]
 file = "mods/.index/draconic-evolution.pw.toml"
-hash = "8179482b9f4b9ae6bef3bd42090edecf570f5674526df20a9dab9fb37ce0bf93"
+hash = "c3e9347b299da5803a4c2e6001ef34c513c731006c51ab353c7c9384217ede99"
 metafile = true
 
 [[files]]
 file = "mods/.index/draconicadditions.pw.toml"
-hash = "db25566a8890729c99b2fb23aa27b687b97bb96d81eec3a71ab94c20f1235be0"
+hash = "003459a979e53d312f1759d3dd15ca12904f119929475b8e76721ed5e4781ee9"
 metafile = true
 
 [[files]]
@@ -1086,37 +1111,37 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ftb-chunks-forge.pw.toml"
-hash = "99f4ec64862560fd9d46015096a31eacb7c2ab56c95f2dc6cfb8775177a44ada"
+hash = "f01b27cbe07faa5ca0de953a45fb97528dbfaaee1d1ecd8b7912c4437b2480d3"
 metafile = true
 
 [[files]]
 file = "mods/.index/ftb-essentials.pw.toml"
-hash = "f2500ec40b0a738714f1a414082dea43d51d4114b1adfe0f8050233b4cefd30f"
+hash = "c608c9da4ad92357fc16cd790097ad7e947bfdaf588152e76a9710aafafbfb99"
 metafile = true
 
 [[files]]
 file = "mods/.index/ftb-library-forge.pw.toml"
-hash = "9f3f1b6bd245d7cf5ebbf84a6efd07012952082e1ae399967829cf118ba0b2a7"
+hash = "977d66888234e169ada2729710c4038de93caf6e0ec4ed923bcc8b4989626cda"
 metafile = true
 
 [[files]]
 file = "mods/.index/ftb-quests-forge.pw.toml"
-hash = "1da718a33244840edbee10d6f8df267fdabaff32e07d901c1dcc562ac9d7d864"
+hash = "773042bfab71cd7c1ead0993628031370afa7c3e874258ded2c9e7b7db0c4cf0"
 metafile = true
 
 [[files]]
 file = "mods/.index/ftb-teams-forge.pw.toml"
-hash = "bba30ad148b7fc02a0b9e05db5c40889d1db053ff179a7789ed198963f369c37"
+hash = "4064d33c64cb2d722761217947e49d6668dd69996a656200127c3b2054b7cf32"
 metafile = true
 
 [[files]]
 file = "mods/.index/ftb-ultimine-forge.pw.toml"
-hash = "71a8420a8abed821ebd5ba8823c43c92f3533972f3bf07a48e75d8ed65f4f277"
+hash = "ddd4d29ed25c867efd48eab26e8c5f641d7776fb266070af8e9e77ae03e0a0ac"
 metafile = true
 
 [[files]]
 file = "mods/.index/ftbxaerocompat.pw.toml"
-hash = "8b70dd6ee316eeffb992c382c94396cf5706784ccb360770cf52ffb5c1bb2928"
+hash = "0bf034add072ca0450c4c1d100547cc04b731ad02910bf7054c6e7991c4d608d"
 metafile = true
 
 [[files]]
@@ -1156,22 +1181,22 @@ metafile = true
 
 [[files]]
 file = "mods/.index/immersive-petroleum.pw.toml"
-hash = "d46fb903df0f4833be83edd1f96147f8d7072bdbba33207381ef3b565f07cbd9"
+hash = "24696b8c830ac02bd2f799b51d20440bd36e159b8e652bf738bfcd53cd3e063f"
 metafile = true
 
 [[files]]
 file = "mods/.index/industrial-foregoing-souls.pw.toml"
-hash = "fde1c0bace7c362336da3ccdd66a42b2cd64a2624e05197f45110de309a45691"
+hash = "6e938bedcdeb75230e881794d16d40ab7e23bbdf347aecb3d8b85d470528bf5c"
 metafile = true
 
 [[files]]
 file = "mods/.index/industrial-foregoing.pw.toml"
-hash = "9c846aa610304f079e6d3d471cf846362bf442f8812d4c4915c153b1c9e12627"
+hash = "4ba3fe617b669a297775e88c1d9321a8a090247a4a68c7a90b071b1735ddd7a3"
 metafile = true
 
 [[files]]
 file = "mods/.index/inventory-tweaks-refoxed.pw.toml"
-hash = "c7f9dabf576c70b73b93825877c8315bc9f52903d4b901161ca1895dc93a8ad3"
+hash = "a29b728ab8f43c6ab4d4232d781b2b8c06c4ea6422ed16b365a03f7e4ff234e2"
 metafile = true
 
 [[files]]
@@ -1211,12 +1236,12 @@ metafile = true
 
 [[files]]
 file = "mods/.index/kubejs-actually-additions.pw.toml"
-hash = "240730c5631f518579c9273a63ff8cd34df9fdcc88295c4a54cf432ba318c16e"
+hash = "44a230b98be1386ef07bdb335f0de8ff1116a97f8033ff58862001243c19d268"
 metafile = true
 
 [[files]]
 file = "mods/.index/kubejs-draconic-evolution.pw.toml"
-hash = "06f4f8acc9c580968d7965c7258152c34f2281ab488cb692c6c7d42cf76cc92b"
+hash = "820f59c9053d90d2f825f48cee169715e78241b278cd042542bd64c7e28383d1"
 metafile = true
 
 [[files]]
@@ -1226,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/kubejs-mekanism-extends.pw.toml"
-hash = "809aee6a75593f11ec3609143056b0f41978ce7ab4367063ea7ca98dfd9e9392"
+hash = "3d0c0078f829f0d8ccc47fbf4872b4e1394f36a706987417e1575e3b3bfc4f60"
 metafile = true
 
 [[files]]
@@ -1236,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/kubejs-projecte.pw.toml"
-hash = "b0e846728d900c6bed1f0b28b79c121ec86578e07fd812e37d0ddca87aeb97c7"
+hash = "0d827b4e6c60cdad06a05b97eeba05f0a14f33d1e1098580a4c6307ac19c0a11"
 metafile = true
 
 [[files]]
@@ -1266,7 +1291,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mega-cells.pw.toml"
-hash = "ba8c85c5e224578bc947e33e10c42a8c049fdd991ede776c8f4d8bbdac7388e2"
+hash = "6e0f28371ca952baeaeba5941704e101a19583c810747ca7b2b5519c1fdfd601"
 metafile = true
 
 [[files]]
@@ -1336,12 +1361,12 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mystical-agriculture-tiered-crystals.pw.toml"
-hash = "01be9855a7210184a24c41960409c08a5feb10706b39ffa061126537318320ca"
+hash = "2765c947a63ed0c0ad4d041a5fd4dbc7f5d4fc7c0ee85f25d09c0923eb4396f3"
 metafile = true
 
 [[files]]
 file = "mods/.index/mystical-agriculture.pw.toml"
-hash = "4fa6de5cf4f06a462e6c721b6e7f6c9607e8cffcdcd2d15b96718549b6b396ff"
+hash = "6fd371bb28f061978b4b2e9ca964935e4dcccae4d5c6cac3796d5faeaeb77315"
 metafile = true
 
 [[files]]
@@ -1396,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/powah-rearchitected.pw.toml"
-hash = "f101964c3fa0e636d84ddc61095f58457dd23eee7a0d4650a27476000ef519b2"
+hash = "a084b77b08c329a83f4d969f58b3592d084ff199ffa4c0d1f2b436f8c47f1bc1"
 metafile = true
 
 [[files]]
@@ -1416,7 +1441,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/re-avaritia.pw.toml"
-hash = "73cf31433905b3ad888c3501f1a791e543df103081cb19a1d9b4195a13297ec2"
+hash = "88aedcd9cc57fc5c9243693b98158d7dd066a9b54a21839cb38debac654224d7"
 metafile = true
 
 [[files]]
@@ -1426,7 +1451,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/searchables.pw.toml"
-hash = "f64115b7ca5b6de9ced0b7f716b601560d3005c75429b1c3aa7e8f787c731b2b"
+hash = "17201a5ad6fc437e1fd26dbe42922b5fc0f238d81b200308266eb4c06171f2aa"
 metafile = true
 
 [[files]]
@@ -1456,7 +1481,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/soulplied-energistics.pw.toml"
-hash = "28fe298e5b5a6b10915119ec7ee7b3bc3429c45e509f2a3fb5052b9c405be10b"
+hash = "620dfa368e052ef6a392c87088255f74896697d38ac7f9e32cce26766cb5cf70"
 metafile = true
 
 [[files]]
@@ -1486,7 +1511,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/titanium.pw.toml"
-hash = "623e548f19e82dc3dbe658f7a6d55e1d26e80643c24f901ce7a668ef8d8d38a0"
+hash = "31091abecf83e0f78e5d576e70a33c7125535a8282041ea01f1af47a9ff3f59d"
 metafile = true
 
 [[files]]

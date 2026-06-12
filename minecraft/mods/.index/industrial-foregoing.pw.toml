@@ -10,7 +10,7 @@ x-prismlauncher-version-number = 'industrialforegoing-1.21-3.6.38.jar'
 hash = '79019a59c8023f5883d7a6c2f2308c995f828aa3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 7600395

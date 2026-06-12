@@ -10,7 +10,7 @@ x-prismlauncher-version-number = '[NEOFORGE][1.21.1] FTB Ultimine 2101.1.15'
 hash = 'c96a7cc0b52bf919660ea61c1536cebd9d5773b3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+
 
 [update.curseforge]
 file-id = 8231400
