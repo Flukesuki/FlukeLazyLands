@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".packignore"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/Mekanism-Extras/general.toml"
 hash = "f44e81fbc432790d3e14c68735fe423eb24ac0288b1f28fd6bdbe3dc65f799d3"
 
@@ -1461,7 +1465,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/sodium.pw.toml"
-hash = "fe8b9fee7342573905330318017a2f3ca6490c30d2f058dd6b07ce832cf250c2"
+hash = "1ac9374e9050ce4045dd1dfcca2da1db0583123bc738893714f2eb81008f40d5"
 metafile = true
 
 [[files]]
