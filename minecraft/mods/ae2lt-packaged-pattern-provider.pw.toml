@@ -1,0 +1,13 @@
+name = "AE2LT Packaged Pattern Provider"
+filename = "ae2ltpp-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e1b65a938af2b3afcb89377050c3ba1dc983d36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8235153
+project-id = 1572723

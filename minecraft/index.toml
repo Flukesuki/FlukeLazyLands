@@ -1534,6 +1534,11 @@ hash = "2365bc6be0c7913891badf7aaabd12ae3e86efde7e751804c8073e212e69c594"
 metafile = true
 
 [[files]]
+file = "mods/ae2lt-packaged-pattern-provider.pw.toml"
+hash = "e7528bcffc5f0e78291e577c01124a1ab8cc10c3c423b68084fd119ea39f444c"
+metafile = true
+
+[[files]]
 file = "mods/botania-neoforge-1.21.1-454-SNAPSHOT.jar"
 hash = "b672409f2cc73fd2227c6ec869466ad4731d3de11598e1201616c3a614610be2"
 
@@ -1544,3 +1549,8 @@ hash = "89bdfd44a580c728149f7d56dfcc19fdfa72cedfa4f2aee7586e3411562b540a"
 [[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
 hash = "4c2181f99049844e71349913aaf3fea8b58ce081fee952616767676d1b6fa3b1"
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "1bb1904689ab102397544b9234eaaad105b60b865e571139d3b3c971dc03cc2b"
+metafile = true
