@@ -1,0 +1,13 @@
+name = "DimStorage"
+filename = "DimStorage-1.21.1-9.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2b89b7ce8f44c957935e26399cbdafc186b6b9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7333077
+project-id = 353882

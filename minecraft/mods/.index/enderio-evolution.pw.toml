@@ -1,25 +1,12 @@
-filename = 'enderio_evolution-3.0.22-NeoForge-1.21.1.jar'
-name = 'Ender IO: Evolution'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'alpha'
-x-prismlauncher-version-number = 'enderio_evolution-3.0.22-NeoForge-1.21.1.jar'
+name = "Ender IO: Evolution"
+filename = "enderio_evolution-3.0.23-NeoForge-1.21.1.jar"
 
 [download]
-hash = '4cffeb832b1cdfc846aef6f4db5654b940b07443'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "8c05fe7182a4fe0c3c62396ed421eaccbf992aa1"
+mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
-file-id = 8201020
+file-id = 8238203
 project-id = 1453074
-
-[[x-prismlauncher-dependencies]]
-addonId = '364466'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '64578'
-type = 'REQUIRED'

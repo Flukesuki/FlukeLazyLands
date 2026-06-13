@@ -1,0 +1,13 @@
+name = "Effortless Structure"
+filename = "effortless-1.21.1-3.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5efac485845297d0a57527f4f9c83eb248555bea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8164435
+project-id = 1557540
