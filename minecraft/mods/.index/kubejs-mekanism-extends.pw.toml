@@ -1,6 +1,6 @@
 filename = 'kubejs_mekanism_extends-2101.0.1.jar'
 name = 'KubeJS Mekanism Extends'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

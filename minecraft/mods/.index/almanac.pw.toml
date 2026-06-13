@@ -1,6 +1,6 @@
 filename = 'Almanac-1.21.1-2-neoforge-1.5.2.jar'
 name = 'Almanac'
-side = 'server'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2' ]

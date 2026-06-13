@@ -1,6 +1,6 @@
 filename = 'letmedespawn-1.21.x-neoforge-1.5.0.jar'
 name = 'Let Me Despawn'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.21',

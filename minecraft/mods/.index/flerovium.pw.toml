@@ -1,6 +1,6 @@
 filename = 'flerovium-neoforge-1.21.1-1.0.18-all.jar'
 name = 'Flerovium'
-side = 'client'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
