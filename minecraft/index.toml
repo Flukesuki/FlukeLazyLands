@@ -966,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ae2-lightning-tech.pw.toml"
-hash = "4d4341167f8a13783e4f3214d1b19bef686741877c9c4decf4c5a8e6b951734f"
+hash = "7538d3cff8a5cc10a65e9ac59df39993c5cbd80408165dc66bd94a0d67ad13d3"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/enderio-evolution.pw.toml"
-hash = "8c6ba6ad723069bbbe445e792227da099b4bed313e1c7e0d90b291edcb94ade7"
+hash = "b36749f29fa7e8b88db9f654e8a50c3d1cdd655cffbb78edfd327b8d8f1620cb"
 metafile = true
 
 [[files]]
@@ -1200,6 +1200,11 @@ hash = "1a4c613bf00c667a25aa00cd8028b413f3d9063f184b364f067663595bbbfc7b"
 metafile = true
 
 [[files]]
+file = "mods/.index/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
 file = "mods/.index/forgified-fabric-api.pw.toml"
 hash = "1a28901bf9b64d20ecc7917ee8ad68357bcda87ecf6b56be5fffe474d51e4cb6"
 metafile = true
@@ -1226,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ftb-quests-forge.pw.toml"
-hash = "773042bfab71cd7c1ead0993628031370afa7c3e874258ded2c9e7b7db0c4cf0"
+hash = "a77d271d6d918f064a9ae41b9ca1e5b1d108b04b3c9227d1047429b5f5fd854d"
 metafile = true
 
 [[files]]
@@ -1485,6 +1490,16 @@ hash = "a0f00de093bc4cccaf19a6dce85c419cbc0f6e367a1994d5115ec4d538abdea3"
 metafile = true
 
 [[files]]
+file = "mods/.index/modular-routers.pw.toml"
+hash = "e252f6993baf0dd2f053ef0e7c536bd8f914bbb409dbd75e70e10096a66472c9"
+metafile = true
+
+[[files]]
+file = "mods/.index/more-flux-storage.pw.toml"
+hash = "2f3eed3d134650526881214ed555fc8cb36a9b8baf7c564133896eff15fd8be2"
+metafile = true
+
+[[files]]
 file = "mods/.index/mouse-tweaks.pw.toml"
 hash = "829cf913f5e6f947535ec26d24531956a2247f8558da778edaa284db3e620aaf"
 metafile = true
@@ -1586,7 +1601,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/puzzles-lib.pw.toml"
-hash = "fce9971e9a46030df81630f3b109f6ffb33f52d60b6387940dc2dfd2ecc34711"
+hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
 
 [[files]]

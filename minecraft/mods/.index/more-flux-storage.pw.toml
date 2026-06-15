@@ -1,0 +1,13 @@
+name = "More Flux Storage"
+filename = "more_flux_storage-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb9e7c83cf9bfb16f5d14870ebe1669e0b10f264"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7816324
+project-id = 1492345
