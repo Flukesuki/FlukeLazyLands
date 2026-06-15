@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7635944B6A6416E4"
+	group: "323571BB47D0B746"
+	icon: {
+		id: "excessive_utilities:rainbow_generator"
+	}
+	id: "7635944B6A6416E4"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+}

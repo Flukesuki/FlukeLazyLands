@@ -1,0 +1,173 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "424EC44E4A478E49"
+	group: "323571BB47D0B746"
+	icon: {
+		id: "immersiveengineering:bucket_wheel"
+	}
+	id: "424EC44E4A478E49"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3B3E60102F1296A2"]
+			id: "1E29238A5E841F38"
+			rewards: [
+				{
+					id: "35BA9945FB3A6657"
+					item: {
+						count: 1
+						id: "minecraft:cherry_sapling"
+					}
+					type: "item"
+				}
+				{
+					id: "7329F8BBD3190959"
+					item: {
+						count: 1
+						id: "minecraft:oak_sapling"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "22F9AA8953086754"
+				type: "dimension"
+			}]
+			x: -15.5d
+			y: -0.5d
+		}
+		{
+			id: "3B3E60102F1296A2"
+			tasks: [{
+				id: "623292934C16D92B"
+				type: "checkmark"
+			}]
+			x: -17.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1E29238A5E841F38"]
+			id: "6297830235105633"
+			tasks: [{
+				id: "4C463D0B7ADC5612"
+				item: { count: 1, id: "kubejs:flukesuki_pebble" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6297830235105633"]
+			id: "6451D7E1C23599D6"
+			tasks: [{
+				id: "4FE450180798C983"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1E29238A5E841F38"]
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "163F4B9C3FB9BA67"
+			tasks: [{
+				id: "18BDAF113A8CDAB2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["163F4B9C3FB9BA67"]
+			id: "1433678B952666F4"
+			rewards: [
+				{
+					id: "071CBA5D9990AE30"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:advanced_magnet_upgrade"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3885058FCB26EBBA"
+					item: {
+						count: 1
+						id: "excessive_utilities:cursed_earth"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "59B0D6D0AE30C0E0"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6451D7E1C23599D6"]
+			id: "063224312E5C95EA"
+			rewards: [{
+				count: 2
+				id: "0F1EB20E7725D5FC"
+				item: {
+					components: {
+						"sophisticatedstorage:wood_type": "cherry"
+					}
+					count: 1
+					id: "sophisticatedstorage:diamond_chest"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "243E8A25F7578DCA"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1433678B952666F4"]
+			id: "1DB323EDB4A78AB9"
+			rewards: [{
+				count: 64
+				id: "5425D4462D8328E7"
+				item: {
+					count: 1
+					id: "minecraft:tnt"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "52DFCECE2675D12C"
+					item: { count: 1, id: "minecraft:rotten_flesh" }
+					type: "item"
+				}
+				{
+					id: "5B7A184CCC652FB2"
+					item: { count: 1, id: "minecraft:gunpowder" }
+					type: "item"
+				}
+				{
+					id: "110165600B513168"
+					item: { count: 1, id: "minecraft:bone" }
+					type: "item"
+				}
+			]
+			x: -11.0d
+			y: 0.5d
+		}
+	]
+}

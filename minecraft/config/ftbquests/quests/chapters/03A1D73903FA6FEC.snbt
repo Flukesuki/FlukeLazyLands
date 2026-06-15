@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "03A1D73903FA6FEC"
+	group: "323571BB47D0B746"
+	icon: {
+		id: "ae2:controller"
+	}
+	id: "03A1D73903FA6FEC"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

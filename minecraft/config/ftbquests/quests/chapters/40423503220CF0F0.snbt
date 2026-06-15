@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "40423503220CF0F0"
+	group: ""
+	icon: {
+		id: "ae2lt:pigmee_fumo"
+	}
+	id: "40423503220CF0F0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "1D321B54D9A1FF05"
+		tasks: [{
+			id: "4FCA1B8A82624E37"
+			type: "checkmark"
+		}]
+		x: -1.0d
+		y: 2.0d
+	}]
+}

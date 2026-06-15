@@ -1,0 +1,47 @@
+{
+	chapter.03A1D73903FA6FEC.title: "第三章"
+	chapter.0F13ECE19CBEBEF0.title: "第六章"
+	chapter.19169E2187F4B9B9.title: "第二章"
+	chapter.40304C220F7BCCE6.title: "物流"
+	chapter.40423503220CF0F0.title: "介绍页"
+	chapter.424EC44E4A478E49.title: "第一章"
+	chapter.58D00E42B7379E81.title: "第五章"
+	chapter.5C3F40131C469C9C.title: "第七章"
+	chapter.7635944B6A6416E4.title: "第四章"
+	chapter_group.323571BB47D0B746.title: "[主线]"
+	chapter_group.4F34D8C283AFEFDA.title: "【实用物品】"
+	quest.100DB060C8AC126F.quest_desc: ["ps：用ME能量存储原件存储电量在再样板供应器放入感应卡会自动给机器发配电量"]
+	quest.156845B8FDE37E62.title: "维度存储"
+	quest.163F4B9C3FB9BA67.quest_desc: ["{@pagebreak}"]
+	quest.163F4B9C3FB9BA67.title: "任意原木"
+	quest.1784781D664074A3.title: "SFM"
+	quest.1D321B54D9A1FF05.quest_desc: [
+		"为了防止按键冲突，解绑了很多默认的（包括小地图、连锁挖矿）按键绑定"
+		"按需求自行调整"
+	]
+	quest.1D321B54D9A1FF05.title: "按键绑定"
+	quest.1DB323EDB4A78AB9.quest_desc: ["ps : 这里先送你一点！后续TNT需要去自己合成了噢！"]
+	quest.1DB323EDB4A78AB9.title: "爆炸的起源"
+	quest.1E29238A5E841F38.title: "初入世界"
+	quest.1F859657875F24FA.title: "流体管道"
+	quest.3EA85D4C8B58892F.quest_desc: ["ps：pip管道尽量不要过多使用下界合金升级"]
+	quest.3EA85D4C8B58892F.title: "pip"
+	quest.4D3F03124FF191D2.title: "任意能量导管"
+	quest.57BC34FCEAB6B2DD.quest_desc: ["Mek管道不做推荐"]
+	quest.57BC34FCEAB6B2DD.title: "Mek"
+	quest.5B67B138C5619BA5.quest_desc: ["ps：eio的管道数值都很逆天具体可以去EMI查看"]
+	quest.5B67B138C5619BA5.title: "eio"
+	quest.6A9478B98AECA246.title: "任意能量线缆"
+	quest.7A5ECE4F9F1DB23F.title: "路由器"
+	quest.7F1F590775232C74.title: "通量"
+	task.18BDAF113A8CDAB2.title: "任意原木"
+	task.22831D6075664B28.title: "气体管道"
+	task.22F060C52A50CEFD.title: "Any #enderio:enderio/hide_facades"
+	task.22F9AA8953086754.title: "111"
+	task.449FBEF52375816E.title: "电力管道"
+	task.5BA2DE0C62BB3D68.title: "电力管道"
+	task.6B6446B74DC9F83A.title: "任意能量线缆"
+	task.743312AF9815BA12.title: "物品管道"
+	task.7666B965756525A8.title: "无线"
+	task.7AC6E6092B3F56BF.title: "任意通用线缆"
+}

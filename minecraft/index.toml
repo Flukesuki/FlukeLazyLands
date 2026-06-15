@@ -417,6 +417,54 @@ file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "fcaac62b8086a8352fd5b15e50b0a6c18749af780ddf289cc595c949f99247c7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/03A1D73903FA6FEC.snbt"
+hash = "081d520859b5826b93733ffde5a9b52cbc2b84c3863f1efd53c57e916f7a96db"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/0F13ECE19CBEBEF0.snbt"
+hash = "6cdf14ab34e0d211ef60cf47cd448eb1c2f12a1645e2864612446660c4f42589"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/19169E2187F4B9B9.snbt"
+hash = "17c3b52c2c7a3c55cc35f837964faf85a59c03af4de8870e3a3575e32bf9adf2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/40304C220F7BCCE6.snbt"
+hash = "5e26cb055a690c770685857a713c7be67ba58c70b5edcc5e190c1980b7cd6d5d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/40423503220CF0F0.snbt"
+hash = "3d86731366be73b8007aae9d4b8d27fb8d9a5fab785113952b64f2fd7ce9ad4e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/424EC44E4A478E49.snbt"
+hash = "c7ad68ae83cff165c7ae8df347660e3abcf0cc181f0fba195e83120eae80eb2c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/58D00E42B7379E81.snbt"
+hash = "7e41d4c17a786d554f515565021d749acdf36f01beb56dc41883cb72ead9d3da"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/5C3F40131C469C9C.snbt"
+hash = "3cabb6c506c0e5e92eac52a7d0c70ffa42982e238a3252bb1da095ef143db367"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/7635944B6A6416E4.snbt"
+hash = "d6970cfd5e441c0cc630deb9e8479ee9e825d11d64fbc5999fc68cb1e706e48f"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "df92fd6b31e38ecbe9761f6ca2260e1b19eb9bcce38e9116565733ad47078b76"
+
+[[files]]
+file = "config/ftbquests/quests/lang/zh_cn.snbt"
+hash = "1d080cb814c81b12f23d5d573546d066992775fda4c2fdef359307e9e4022f46"
+
+[[files]]
 file = "config/guideme.toml"
 hash = "e4f58ced20ccf200592141f4afcad54a0d33faa6b672a90e58781c1a8183a036"
 
@@ -1167,6 +1215,11 @@ hash = "c608c9da4ad92357fc16cd790097ad7e947bfdaf588152e76a9710aafafbfb99"
 metafile = true
 
 [[files]]
+file = "mods/.index/ftb-filter-system.pw.toml"
+hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
+metafile = true
+
+[[files]]
 file = "mods/.index/ftb-library-forge.pw.toml"
 hash = "977d66888234e169ada2729710c4038de93caf6e0ec4ed923bcc8b4989626cda"
 metafile = true
@@ -1184,6 +1237,11 @@ metafile = true
 [[files]]
 file = "mods/.index/ftb-ultimine-forge.pw.toml"
 hash = "ddd4d29ed25c867efd48eab26e8c5f641d7776fb266070af8e9e77ae03e0a0ac"
+metafile = true
+
+[[files]]
+file = "mods/.index/ftb-xmod-compat.pw.toml"
+hash = "c5648f7c204c4e78dbe6a67fd5e57e14d01226021eb3ee1db083d2415028f3c7"
 metafile = true
 
 [[files]]
@@ -1318,7 +1376,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ldlib.pw.toml"
-hash = "1b52e230e513bb90bb216b51dfb6a62c58d383260714e322836d70384bff5563"
+hash = "b04bbe05fdc6832368929079b2d2cc3d959ac50e9c8f99f07e3773a1aa838cfe"
 metafile = true
 
 [[files]]
@@ -1384,6 +1442,11 @@ metafile = true
 [[files]]
 file = "mods/.index/mekanism-generators.pw.toml"
 hash = "72e11502a0a1ca508b68cf72d51e11469b661ca14f5d899e3e8744383f06fbca"
+metafile = true
+
+[[files]]
+file = "mods/.index/mekanism-pipez-fix.pw.toml"
+hash = "897ffe44d4341ebc858053a71f930231bf960175e9a6bd516a2b5b884e025008"
 metafile = true
 
 [[files]]
@@ -1477,6 +1540,11 @@ hash = "1e206d1f1d71b37196849f2312f33e0f43309299c52f791d861e4af1513b2f1f"
 metafile = true
 
 [[files]]
+file = "mods/.index/pipez-lag-fix.pw.toml"
+hash = "7c8555044410a8face27c0c7d97c7db5b092d9d9ad6584e98e111d2f31e36820"
+metafile = true
+
+[[files]]
 file = "mods/.index/pipez.pw.toml"
 hash = "a376e064522b72551bac506df1a5af35f0b030f4dfca15d117e3ae14b1f4a1b8"
 metafile = true
@@ -1563,17 +1631,17 @@ metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-backpacks.pw.toml"
-hash = "db97acc56882241c5ba4b837f9e4a375dd7d20f32a290b2d8cbb96a7749ac689"
+hash = "9877c1864d397d9ca1363b2f473f06480511052ed9acec8c4d95208e6995fab2"
 metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-core.pw.toml"
-hash = "268bdd72383fde498d194bf2f3c4eec98a8edc43393f6bb9ba1887934786d3bb"
+hash = "ca71462a555b75db2a9e879370f51d2faa68453fa29c7fcf95c274f884c8ad95"
 metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-storage.pw.toml"
-hash = "9a6f4f44803bfb03e6307d6c266d928b03267fe25222d8a483ce3d592598fcd9"
+hash = "5f49754ce4c672c12b38d00620d8d1e8668ac0b45b14ad6d713d514df318bea2"
 metafile = true
 
 [[files]]
@@ -1622,6 +1690,11 @@ hash = "ef54c0d470239f3f94e1e5ed198483d846615035b39b29fe08b3f840d9aa53dd"
 metafile = true
 
 [[files]]
+file = "mods/.index/xaeros-minimap.pw.toml"
+hash = "348b87d50120e6824c59b58693b3d9e7936ceac3d38d58896e1a6f92f2edcf5b"
+metafile = true
+
+[[files]]
 file = "mods/.index/xaeros-world-map.pw.toml"
 hash = "9644706fca328d1b0f0ae6e49386321bb544796894df3e275735e2674602b27b"
 metafile = true
@@ -1641,7 +1714,7 @@ hash = "89bdfd44a580c728149f7d56dfcc19fdfa72cedfa4f2aee7586e3411562b540a"
 
 [[files]]
 file = "mods/flukelazylandscore-1.0.0.jar"
-hash = "ce3ecd3453091f01b19034a125e41682ce67f26fb5f586726607ab2420b00782"
+hash = "d4acae8ad6ae1c7e992fa14ac541746ab1a34b3da962e36f0db70c4b8df3cd25"
 
 [[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"

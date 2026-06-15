@@ -1,0 +1,338 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "40304C220F7BCCE6"
+	group: "4F34D8C283AFEFDA"
+	id: "40304C220F7BCCE6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["22DC8FDD2654559A"]
+			id: "3EA85D4C8B58892F"
+			tasks: [{
+				id: "4126FFFA7B9D01B5"
+				item: { count: 1, id: "pipez:item_pipe" }
+				tags: ["gas_pipe"]
+				type: "item"
+			}]
+			x: -20.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["743312AF9815BA12"]
+			id: "57BC34FCEAB6B2DD"
+			tasks: [{
+				id: "13407E104386C87B"
+				item: { count: 1, id: "mekanism:basic_mechanical_pipe" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["22DC8FDD2654559A"]
+			id: "5B67B138C5619BA5"
+			tasks: [{
+				id: "2DBBAB262FE1B08C"
+				item: { components: { "enderio:conduit": "enderio:item" }, count: 1, id: "enderio:conduit" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["22DC8FDD2654559A"]
+			id: "1784781D664074A3"
+			tasks: [{
+				id: "066E29AF44DACDE2"
+				item: { count: 1, id: "sfm:disk" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -12.5d
+		}
+		{
+			id: "22DC8FDD2654559A"
+			tasks: [{
+				id: "743312AF9815BA12"
+				type: "checkmark"
+			}]
+			x: -22.5d
+			y: -12.5d
+		}
+		{
+			id: "1F859657875F24FA"
+			tasks: [{
+				id: "449FBEF52375816E"
+				type: "checkmark"
+			}]
+			x: -22.5d
+			y: -10.5d
+		}
+		{
+			id: "4E70046FE99F336C"
+			tasks: [{
+				id: "22831D6075664B28"
+				type: "checkmark"
+			}]
+			x: -22.5d
+			y: -8.5d
+		}
+		{
+			id: "73D91D859B0D33D3"
+			tasks: [{
+				id: "5BA2DE0C62BB3D68"
+				type: "checkmark"
+			}]
+			x: -22.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1F859657875F24FA"]
+			id: "49A81A1A77D03EF0"
+			tasks: [{
+				id: "1EF8808A0C156846"
+				item: { count: 1, id: "pipez:fluid_pipe" }
+				type: "item"
+			}]
+			x: -20.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["4E70046FE99F336C"]
+			id: "3559394A04E128DB"
+			tasks: [{
+				id: "0FE275151BA040EC"
+				item: { count: 1, id: "pipez:gas_pipe" }
+				type: "item"
+			}]
+			x: -20.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["73D91D859B0D33D3"]
+			id: "2318625A99662205"
+			tasks: [{
+				id: "19F4E0902F7584CE"
+				item: { count: 1, id: "pipez:energy_pipe" }
+				type: "item"
+			}]
+			x: -20.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1F859657875F24FA"]
+			id: "597F1344848BDD69"
+			tasks: [{
+				id: "094E675641541306"
+				item: { count: 1, id: "mekanism:basic_mechanical_pipe" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["4E70046FE99F336C"]
+			id: "5F643373E30E6602"
+			tasks: [{
+				id: "67813E3CA24D42B4"
+				item: { count: 1, id: "mekanism:basic_pressurized_tube" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["73D91D859B0D33D3"]
+			id: "4C703132CF8AA884"
+			tasks: [{
+				id: "7AC6E6092B3F56BF"
+				item: { components: { "ftbfiltersystem:filter": "only_one(item(mekanism:basic_universal_cable)item(mekanism:advanced_universal_cable)item(mekanism:elite_universal_cable)item(mekanism:ultimate_universal_cable)item(mekanism_extras:absolute_universal_cable)item(mekanism_extras:supreme_universal_cable)item(mekanism_extras:cosmic_universal_cable)item(mekanism_extras:infinite_universal_cable))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["73D91D859B0D33D3"]
+			id: "4D3F03124FF191D2"
+			tasks: [{
+				id: "22F060C52A50CEFD"
+				item: { components: { "ftbfiltersystem:filter": "only_one(component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:crude_energy_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio:energy\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:construction_alloy_energy_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio:enhanced_energy\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:gold_crude_energy_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:energetic_silver_energy_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio:ender_energy\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:crystalline_energy_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:crystalline_pink_slime_energy_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:melodic_energy_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:stellar_energy_conduit\"}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["73D91D859B0D33D3"]
+			id: "6A9478B98AECA246"
+			tasks: [{
+				id: "6B6446B74DC9F83A"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(powah:energy_cables)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -6.5d
+		}
+		{
+			id: "6C4153EBAE1EBDBB"
+			tasks: [{
+				id: "7666B965756525A8"
+				type: "checkmark"
+			}]
+			x: -22.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1F859657875F24FA"]
+			id: "240BCC1778383F52"
+			tasks: [{
+				id: "08EF6691F4EC3B5E"
+				item: { components: { "enderio:conduit": "enderio:fluid" }, count: 1, id: "enderio:conduit" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["1F859657875F24FA"]
+			id: "5BF7DF8C072BD707"
+			tasks: [{
+				id: "1EE482ADB7BEDC9B"
+				item: { count: 1, id: "immersiveengineering:fluid_pipe" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["4E70046FE99F336C"]
+			id: "7E888A43D5E09032"
+			tasks: [{
+				id: "0711EE16841821C9"
+				item: { components: { "enderio:conduit": "enderio:chemical" }, count: 1, id: "enderio:conduit" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -8.5d
+		}
+		{
+			id: "100DB060C8AC126F"
+			tasks: [{
+				id: "52B4EAB63A05F96F"
+				item: { count: 1, id: "appflux:induction_card" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -4.5d
+		}
+		{
+			id: "2739AD67EC2F468B"
+			tasks: [
+				{
+					id: "4DB78B1BA0566000"
+					item: { count: 1, id: "actuallyadditions:phantom_itemface" }
+					type: "item"
+				}
+				{
+					id: "564684D6DC9469AD"
+					item: { count: 1, id: "actuallyadditions:phantom_liquiface" }
+					type: "item"
+				}
+				{
+					id: "423CF1AA6D9E873F"
+					item: { count: 1, id: "actuallyadditions:phantom_energyface" }
+					type: "item"
+				}
+				{
+					id: "14B9E437792EBE2B"
+					item: { count: 1, id: "actuallyadditions:phantom_redstoneface" }
+					type: "item"
+				}
+				{
+					id: "5CC3F7E99AC2D000"
+					item: { count: 1, id: "actuallyadditions:phantom_booster" }
+					type: "item"
+				}
+				{
+					id: "70E89E12FDB17DD8"
+					item: { count: 1, id: "actuallyadditions:phantom_connector" }
+					type: "item"
+				}
+			]
+			x: -16.0d
+			y: -4.5d
+		}
+		{
+			id: "3AB3DA662BAE56A5"
+			tasks: [{
+				id: "6C81F6CC6BE8B5FB"
+				item: { count: 1, id: "mekanism:quantum_entangloporter" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -4.5d
+		}
+		{
+			id: "7F1F590775232C74"
+			tasks: [{
+				id: "0E4D1E22053E8C89"
+				item: { count: 1, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: -20.0d
+			y: -4.5d
+		}
+		{
+			id: "156845B8FDE37E62"
+			tasks: [
+				{
+					id: "53A50748528954F0"
+					item: { count: 1, id: "dimstorage:dimensional_chest" }
+					type: "item"
+				}
+				{
+					id: "254C713AF84F609C"
+					item: { count: 1, id: "dimstorage:dimensional_tank" }
+					type: "item"
+				}
+			]
+			x: -20.0d
+			y: -2.5d
+		}
+		{
+			id: "7A5ECE4F9F1DB23F"
+			tasks: [{
+				id: "3B11445CCBDD1B67"
+				item: { count: 1, id: "minecraft:bedrock" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["22DC8FDD2654559A"]
+			id: "682D9C409BED5F47"
+			tasks: [{
+				id: "6FE250E34109DFD7"
+				item: { count: 1, id: "industrialforegoing:item_transporter_type" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["1F859657875F24FA"]
+			id: "04CC1EA4A250E23A"
+			tasks: [{
+				id: "447D8C4F5AE6A321"
+				item: { count: 1, id: "industrialforegoing:fluid_transporter_type" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -10.5d
+		}
+	]
+}

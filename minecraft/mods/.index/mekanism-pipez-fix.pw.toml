@@ -1,0 +1,25 @@
+filename = 'Mekanism Pipez Fix-1.21.1-1.0.1.jar'
+name = 'Mekanism Pipez Fix'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[1.21.1] v1.0.1'
+
+[download]
+hash = '67591c81eb6bfdfb901fe3a04147f7d8beed9c23'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7661970
+project-id = 1233861
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '443900'
+type = 'REQUIRED'

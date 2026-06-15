@@ -1,0 +1,18 @@
+filename = 'pipezlagfix-1.21.1-1.1.0.jar'
+name = 'Pipez Lag Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PipezLagFix - 1.21.1-1.1.0'
+
+[download]
+hash = '8e7cbec6bb5c4f31e6586a9c82b77f1ca6c4bf9d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8113984
+project-id = 1446489
