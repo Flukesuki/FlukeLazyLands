@@ -1,0 +1,33 @@
+filename = 'ae2_overclocked-1.2.3-fix2-beta1-1.21.1Neoforge.jar'
+name = 'AE2 Overclocked'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'ae2_overclocked-1.2.3-fix2-beta1-1.21.1Neoforge.jar'
+
+[download]
+hash = 'ef7b424e7ca934a6afb7debd3fc4fac719b9ab0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7930483
+project-id = 1472240
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1435174'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1084104'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '892005'
+type = 'OPTIONAL'

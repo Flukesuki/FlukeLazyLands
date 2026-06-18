@@ -1,21 +1,12 @@
-filename = 'emilink-1.1.8.jar'
-name = 'EMILink'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'emilink-1.1.8.jar'
+name = "EMILink"
+filename = "emilink-1.1.10.jar"
 
 [download]
-hash = 'a5cb2bed888b27bb2c44a064f7a4b1444eae9dc1'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "a61f60ac1edb12cf6d9a8095b13c801e4d54d21e"
+mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
-file-id = 8128332
+file-id = 8257857
 project-id = 1542052
-
-[[x-prismlauncher-dependencies]]
-addonId = '580555'
-type = 'REQUIRED'

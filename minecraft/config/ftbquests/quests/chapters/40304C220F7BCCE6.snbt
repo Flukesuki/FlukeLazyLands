@@ -23,8 +23,8 @@
 			dependencies: ["743312AF9815BA12"]
 			id: "57BC34FCEAB6B2DD"
 			tasks: [{
-				id: "13407E104386C87B"
-				item: { count: 1, id: "mekanism:basic_mechanical_pipe" }
+				id: "37108F42445B128E"
+				item: { components: { "ftbfiltersystem:filter": "only_one(item(mekanism:basic_logistical_transporter)item(mekanism:advanced_logistical_transporter)item(mekanism:elite_logistical_transporter)item(mekanism:ultimate_logistical_transporter)item(mekanism_extras:absolute_logistical_transporter)item(mekanism_extras:supreme_logistical_transporter)item(mekanism_extras:cosmic_logistical_transporter)item(mekanism_extras:infinite_logistical_transporter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -18.0d
@@ -35,7 +35,7 @@
 			id: "5B67B138C5619BA5"
 			tasks: [{
 				id: "2DBBAB262FE1B08C"
-				item: { components: { "enderio:conduit": "enderio:item" }, count: 1, id: "enderio:conduit" }
+				item: { components: { "ftbfiltersystem:filter": "only_one(component(fuzzy:{\"enderio:conduit\":\"enderio:item\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:speedy_item_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio:enhanced_item\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:melodic_item_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:stellar_item_conduit\"}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -16.0d
@@ -126,7 +126,7 @@
 			id: "597F1344848BDD69"
 			tasks: [{
 				id: "094E675641541306"
-				item: { count: 1, id: "mekanism:basic_mechanical_pipe" }
+				item: { components: { "ftbfiltersystem:filter": "only_one(item(mekanism:basic_mechanical_pipe)item(mekanism:advanced_mechanical_pipe)item(mekanism:elite_mechanical_pipe)item(mekanism:ultimate_mechanical_pipe)item(mekanism_extras:absolute_mechanical_pipe)item(mekanism_extras:supreme_mechanical_pipe)item(mekanism_extras:cosmic_mechanical_pipe)item(mekanism_extras:infinite_mechanical_pipe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -18.0d
@@ -137,7 +137,7 @@
 			id: "5F643373E30E6602"
 			tasks: [{
 				id: "67813E3CA24D42B4"
-				item: { count: 1, id: "mekanism:basic_pressurized_tube" }
+				item: { components: { "ftbfiltersystem:filter": "only_one(item(mekanism:basic_pressurized_tube)item(mekanism:advanced_pressurized_tube)item(mekanism:elite_pressurized_tube)item(mekanism:ultimate_pressurized_tube)item(mekanism_extras:absolute_pressurized_tube)item(mekanism_extras:supreme_pressurized_tube)item(mekanism_extras:cosmic_pressurized_tube)item(mekanism_extras:infinite_pressurized_tube))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -18.0d
@@ -190,7 +190,7 @@
 			id: "240BCC1778383F52"
 			tasks: [{
 				id: "08EF6691F4EC3B5E"
-				item: { components: { "enderio:conduit": "enderio:fluid" }, count: 1, id: "enderio:conduit" }
+				item: { components: { "ftbfiltersystem:filter": "only_one(component(fuzzy:{\"enderio:conduit\":\"enderio:fluid\"})component(fuzzy:{\"enderio:conduit\":\"enderio:pressurized_fluid\"})component(fuzzy:{\"enderio:conduit\":\"enderio:ender_fluid\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:melodic_fluid_conduit\"})component(fuzzy:{\"enderio:conduit\":\"re_endergy:melodic_fluid_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:stellar_fluid_conduit\"})component(fuzzy:{\"enderio:conduit\":\"re_endergy:stellar_fluid_conduit\"}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -16.0d
@@ -212,7 +212,7 @@
 			id: "7E888A43D5E09032"
 			tasks: [{
 				id: "0711EE16841821C9"
-				item: { components: { "enderio:conduit": "enderio:chemical" }, count: 1, id: "enderio:conduit" }
+				item: { components: { "ftbfiltersystem:filter": "only_one(component(fuzzy:{\"enderio:conduit\":\"enderio:chemical\"})component(fuzzy:{\"enderio:conduit\":\"enderio:pressurized_chemical\"})component(fuzzy:{\"enderio:conduit\":\"enderio:ender_chemical\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:melodic_chemical_conduit\"})component(fuzzy:{\"enderio:conduit\":\"re_endergy:melodic_chemical_conduit\"})component(fuzzy:{\"enderio:conduit\":\"enderio_evolution:stellar_chemical_conduit\"})component(fuzzy:{\"enderio:conduit\":\"re_endergy:stellar_chemical_conduit\"}))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -16.0d
@@ -277,11 +277,23 @@
 		}
 		{
 			id: "7F1F590775232C74"
-			tasks: [{
-				id: "0E4D1E22053E8C89"
-				item: { count: 1, id: "minecraft:bedrock" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "12FAA1AF8B004FD2"
+					item: { count: 1, id: "fluxnetworks:flux_point" }
+					type: "item"
+				}
+				{
+					id: "5C22EAFD861707B0"
+					item: { count: 1, id: "fluxnetworks:flux_point" }
+					type: "item"
+				}
+				{
+					id: "657CDF45402A469E"
+					item: { count: 1, id: "fluxnetworks:flux_controller" }
+					type: "item"
+				}
+			]
 			x: -20.0d
 			y: -4.5d
 		}
@@ -305,8 +317,8 @@
 		{
 			id: "7A5ECE4F9F1DB23F"
 			tasks: [{
-				id: "3B11445CCBDD1B67"
-				item: { count: 1, id: "minecraft:bedrock" }
+				id: "0548A49CEE960DE8"
+				item: { count: 1, id: "modularrouters:modular_router" }
 				type: "item"
 			}]
 			x: -18.0d

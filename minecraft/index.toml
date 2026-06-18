@@ -434,7 +434,7 @@ hash = "17c3b52c2c7a3c55cc35f837964faf85a59c03af4de8870e3a3575e32bf9adf2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/40304C220F7BCCE6.snbt"
-hash = "5e26cb055a690c770685857a713c7be67ba58c70b5edcc5e190c1980b7cd6d5d"
+hash = "719cbe9f08b26f26458bd65892c673faf518c35955d505843ac537f20ae29610"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/40423503220CF0F0.snbt"
@@ -462,7 +462,7 @@ hash = "df92fd6b31e38ecbe9761f6ca2260e1b19eb9bcce38e9116565733ad47078b76"
 
 [[files]]
 file = "config/ftbquests/quests/lang/zh_cn.snbt"
-hash = "1d080cb814c81b12f23d5d573546d066992775fda4c2fdef359307e9e4022f46"
+hash = "c119c29d2c3b612ed037d538742902710456ec51cc4d647ad3c10759ebb64146"
 
 [[files]]
 file = "config/guideme.toml"
@@ -926,7 +926,7 @@ hash = "5629201331a2cdf35c6063f985aa205ef98c8ff8a988848368861e9055474661"
 
 [[files]]
 file = "mods/.index/aaron.pw.toml"
-hash = "b6ba1dcead4228ac914496523dc3707d39726a9a78209e0387298be3f0bbb21e"
+hash = "6cb448b8e6abf3663c383ca9c20fd11939b1f19e664ad116ed79b202fefc4752"
 metafile = true
 
 [[files]]
@@ -966,7 +966,12 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ae2-lightning-tech.pw.toml"
-hash = "7538d3cff8a5cc10a65e9ac59df39993c5cbd80408165dc66bd94a0d67ad13d3"
+hash = "c5bd3cd4f9cfb16f3aeb93306474141e72e91a091472c79ed24c2bc876e7c94c"
+metafile = true
+
+[[files]]
+file = "mods/.index/ae2-overclocked.pw.toml"
+hash = "dfdf8aaf2958780b5948f53eff3bf5a3f8af3ab9a52aa04e8c597191b02335aa"
 metafile = true
 
 [[files]]
@@ -1056,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/chloride.pw.toml"
-hash = "b2baa9d4eeed03e02e89464eed1c5a1f1728aa12a53644920fadfdaadaad8ecd"
+hash = "4e81893c7cc1843d641a32cfedfe1ab517298bf10b4c64f1262e0237b6cf36ea"
 metafile = true
 
 [[files]]
@@ -1141,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/emilink.pw.toml"
-hash = "f79d22fba1deb0ab24dad7cd51448ff9cc5e4adde0a2ff5edeac9c705be57174"
+hash = "6e234dd41918f853d7b0d32acc2a31cfc0c7bc76f6734ef8195e57617d05a43e"
 metafile = true
 
 [[files]]
@@ -1151,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/enderio-evolution.pw.toml"
-hash = "b36749f29fa7e8b88db9f654e8a50c3d1cdd655cffbb78edfd327b8d8f1620cb"
+hash = "9a158541c8b6687e608b0d5cdf6e5f95e29239651c62ba943be4f0b59db0fd38"
 metafile = true
 
 [[files]]
@@ -1161,7 +1166,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/excessive-utilities.pw.toml"
-hash = "b266d3380e6e8d8b46ce899dd72c1c007942f769d73f54c52557199a6f002c6d"
+hash = "8d0eef7b55c65addfec730125b96fb0bea4652be2d2df444a12e4908301be08b"
 metafile = true
 
 [[files]]
@@ -1196,7 +1201,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/flerovium.pw.toml"
-hash = "1a4c613bf00c667a25aa00cd8028b413f3d9063f184b364f067663595bbbfc7b"
+hash = "beadec993d55aa16f10698586b62249f89c0d65a45453011337f0456b9664973"
 metafile = true
 
 [[files]]
@@ -1211,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ftb-chunks-forge.pw.toml"
-hash = "5e31328bed703df9f5ef0151791892f204792c02a4e9421a93a7e3ca92758ee4"
+hash = "2d9de2bd15305f5006da7aea34cb35e9dbe8694793a2b3ce794b65bf0e5adfdc"
 metafile = true
 
 [[files]]
@@ -1310,8 +1315,8 @@ hash = "a29b728ab8f43c6ab4d4232d781b2b8c06c4ea6422ed16b365a03f7e4ff234e2"
 metafile = true
 
 [[files]]
-file = "mods/.index/iris.pw.toml"
-hash = "4db883c442d0c094c2d261c581d5f004cc4a7043c366c7b811bb95406e53b2b3"
+file = "mods/.index/irisshaders.pw.toml"
+hash = "adc5bf05e0b47977c51ee0ff287b9d54234d0271350a545c3b5a89f65cb836d3"
 metafile = true
 
 [[files]]
@@ -1381,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ldlib.pw.toml"
-hash = "b04bbe05fdc6832368929079b2d2cc3d959ac50e9c8f99f07e3773a1aa838cfe"
+hash = "8c4195c9db37462692534efe68135834f8987e8b88f7406c733b8b3b8a21cd7e"
 metafile = true
 
 [[files]]
@@ -1411,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/mcjtylib.pw.toml"
-hash = "c63a308732308b5868789e1d225056b74d597920eb0b1e4b64dc75bcbadb1522"
+hash = "b72d3f3171eb5b38308c3960dfca5716c708f29b0ea8055a589f32528bed6db4"
 metafile = true
 
 [[files]]
@@ -1486,7 +1491,12 @@ metafile = true
 
 [[files]]
 file = "mods/.index/modernfix.pw.toml"
-hash = "a0f00de093bc4cccaf19a6dce85c419cbc0f6e367a1994d5115ec4d538abdea3"
+hash = "9dc2a3e3b77ac259be9312336af804be40db33a10379f1efdb5498c37efaff38"
+metafile = true
+
+[[files]]
+file = "mods/.index/modonomicon.pw.toml"
+hash = "fe07c7bedd4a82f8d64a242a581b0736072430e209815f283d1c96750904fe56"
 metafile = true
 
 [[files]]
@@ -1525,13 +1535,18 @@ hash = "0a453b588846b8910cc7eca5f897de07abd93e977a2f75e2c774bd5e457fd8a1"
 metafile = true
 
 [[files]]
+file = "mods/.index/neovitae.pw.toml"
+hash = "4f6ede6030f5beb9f016e920906aabc44e3e955a5918d50621cba5390b10bb53"
+metafile = true
+
+[[files]]
 file = "mods/.index/not-enough-bandwidth-legacy.pw.toml"
 hash = "23acceb491fa891ad8ac34f6ac66fa030890fb170c04f0426a3e5f21b67a45f4"
 metafile = true
 
 [[files]]
 file = "mods/.index/nuclearcraft-neohaul.pw.toml"
-hash = "d466ea17a66680f82b15347d03313a3893d2af08e72505d6be2a8e9f41dbcfdd"
+hash = "701a208fec8b6d11a065e10602c9393c4cc15febf7688d2699f924c225abf5ce"
 metafile = true
 
 [[files]]
@@ -1611,17 +1626,17 @@ metafile = true
 
 [[files]]
 file = "mods/.index/rftools-base.pw.toml"
-hash = "7d21cdc07e8b40abf377b625ab6ebb177572801a281cbf99ca1dabddc8d0f24d"
+hash = "5c88e5a574bdc0e8eddd82ed48ecf6204e269ef1e553cb10e2b9b9375ed5743e"
 metafile = true
 
 [[files]]
 file = "mods/.index/rftools-builder.pw.toml"
-hash = "d689a111058a0c6e003969ae154f5b437f238a7f36af3cf5a1e9190ebec7c05c"
+hash = "8aa4de0cfcbe16ed60f34a49f371e17e4afbf54bcff20769068af3a4819dc11e"
 metafile = true
 
 [[files]]
 file = "mods/.index/rftools-utility.pw.toml"
-hash = "254c32d27d1d6fcee5200eb020fea42e4b9a9f19d0800154cdca882e45af8fb6"
+hash = "37383a2cce841609053ee1d534add290f41d9280ff36a7824bab821c964bfa68"
 metafile = true
 
 [[files]]
@@ -1641,7 +1656,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/sodium.pw.toml"
-hash = "1ac9374e9050ce4045dd1dfcca2da1db0583123bc738893714f2eb81008f40d5"
+hash = "b3f858a649d204666bc6fb6dde79ebcf500b39590845f5e57d3bb2fa29bc92df"
 metafile = true
 
 [[files]]
