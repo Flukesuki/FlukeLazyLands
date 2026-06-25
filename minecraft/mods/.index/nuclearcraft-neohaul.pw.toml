@@ -1,12 +1,12 @@
 name = "Nuclearcraft Neohaul"
-filename = "nuclearcraftneohaul-1.21.1-0.9.26.jar"
+filename = "nuclearcraftneohaul-1.21.1-0.9.27.jar"
 
 [download]
 hash-format = "sha1"
-hash = "0b2b735bafc2908c38c9a6adeb2fea783505192e"
+hash = "c5cdd70aac14ffd87749aab95ef613f4d1ccf1a4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8302398
+file-id = 8314557
 project-id = 1523268

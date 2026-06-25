@@ -1,6 +1,6 @@
 filename = 'ae2_overclocked-1.2.3-fix2-beta1-1.21.1Neoforge.jar'
 name = 'AE2 Overclocked'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'

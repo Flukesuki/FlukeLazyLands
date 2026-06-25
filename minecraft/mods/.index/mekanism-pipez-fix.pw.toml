@@ -1,6 +1,6 @@
 filename = 'Mekanism Pipez Fix-1.21.1-1.0.1.jar'
 name = 'Mekanism Pipez Fix'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
