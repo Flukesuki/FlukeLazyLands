@@ -1,12 +1,12 @@
 name = "AE2 Lightning Tech"
-filename = "ae2lt-1.0.19.jar"
+filename = "ae2lt-1.1.0.jar"
 
 [download]
 hash-format = "sha1"
-hash = "c701d73620111077ddff6132ecb7a5add26b515e"
+hash = "564075e9a627eac982987082a69aa66e7a6354c7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8265021
+file-id = 8327576
 project-id = 1527395

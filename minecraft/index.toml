@@ -966,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/ae2-lightning-tech.pw.toml"
-hash = "c5bd3cd4f9cfb16f3aeb93306474141e72e91a091472c79ed24c2bc876e7c94c"
+hash = "346172e914045d51bcceda812aa19c89cebc13722d3719009f35db7cf2d2d306"
 metafile = true
 
 [[files]]
@@ -1080,6 +1080,11 @@ hash = "9e4e5d713f4f8ec03ffad01cd54a9e01095d31a77b58a97f58188b4093be118c"
 metafile = true
 
 [[files]]
+file = "mods/.index/compact-machines.pw.toml"
+hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
+metafile = true
+
+[[files]]
 file = "mods/.index/configured.pw.toml"
 hash = "0957ab87787baa1cd0ca0d3e092e8895a63e924868958d89e9ac1f3ae009c0b6"
 metafile = true
@@ -1092,6 +1097,11 @@ metafile = true
 [[files]]
 file = "mods/.index/controlling.pw.toml"
 hash = "831f5a7bbe2ba63f5f415b1ca19f7645325d314e1e62d0009b136c765babad2a"
+metafile = true
+
+[[files]]
+file = "mods/.index/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
@@ -1185,8 +1195,18 @@ hash = "5b2b10e6d0fd37f426ff08cd178c2ed863fb6cf79a1dc201a0e06c17d97f566f"
 metafile = true
 
 [[files]]
+file = "mods/.index/extendedae-plus.pw.toml"
+hash = "ecf57d5287c87fec8dea362618220eef3cd06f1860f00dc6859978298486850e"
+metafile = true
+
+[[files]]
 file = "mods/.index/extra-hostile-neural-networks.pw.toml"
 hash = "58f4cc17ad48d5f63cc15cf526e53f2a11cfe2b64ff5b5613a5092047a7b3c08"
+metafile = true
+
+[[files]]
+file = "mods/.index/extreme-sound-muffler.pw.toml"
+hash = "6d51c8adfc6782f216a150dedda2ea64969a639f4e21401eb5c5b5ac8c9ab28f"
 metafile = true
 
 [[files]]
@@ -1296,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/hostile-neural-networks.pw.toml"
-hash = "d1081b904111204bacc52d14628a24230363d6ad7536c6dc8e2a0980c79425ce"
+hash = "612f04b227a9239e55195dc2c44ee762d3c297f15109706446edd941f3f96464"
 metafile = true
 
 [[files]]
@@ -1546,7 +1566,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/neovitae.pw.toml"
-hash = "8c4925aa977b5d0b04edf7da35f4ce1fc82990584b73e825d781f691818f33f4"
+hash = "333a6b77adb5db5fc96c22e6de5f509453fa6c943cbcc7431102415c5d60c45e"
 metafile = true
 
 [[files]]
@@ -1556,7 +1576,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/nuclearcraft-neohaul.pw.toml"
-hash = "f5cdf92436a0fd30490bd56c48753bc56b09b5ab5dab11a5c2a2842a2d9ff3c5"
+hash = "9049b991543b4a62376a552c15aaa3b15265641aa9b4347ea6b1c666f30644df"
 metafile = true
 
 [[files]]
@@ -1671,17 +1691,17 @@ metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-backpacks.pw.toml"
-hash = "3790ca4498aff9c9de5578d67dee8fc6bafe4a6748de8dc13e4dba18f3832a58"
+hash = "564451b3662562c9475fbe73265686451e7d07fb82f334f44f06b52868a8d734"
 metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-core.pw.toml"
-hash = "50c573a743aaa0d6775be61e4d6df2246712db135d8ecc228578c124a9c13a0f"
+hash = "57ee50e92a379cd28944aa7c13178243dc085d3e758294fcb28c867e68506770"
 metafile = true
 
 [[files]]
 file = "mods/.index/sophisticated-storage.pw.toml"
-hash = "bcf00fa6f148b3b04c4c875c94f8976731b87af21f7a0fccc56b1ff6348f181f"
+hash = "313a2d2ce2568da8b3e4360e40d8e4ceca6937183dc82f9d0384549bc93e4acc"
 metafile = true
 
 [[files]]
