@@ -1,13 +1,13 @@
 name = "Aaron"
-filename = "aaron-1.21.1-1.16.0-build.300.jar"
+filename = "aaron-1.21.1-1.17.0-build.310.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4b66c365a5b6e056ef86ffe61c5b6601a7afe31f"
+hash = "9a3af891af286da0ac3ed7e8a6c7d6e4b6a40166"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8263455
+file-id = 8364083
 project-id = 1384284

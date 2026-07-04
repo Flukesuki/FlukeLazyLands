@@ -1,16 +1,12 @@
-filename = 'enderio_conduit_opt-1.0.2-1.21.1.jar'
-name = 'Ender IO: Conduit Optimizer'
-side = ''
+name = "Ender IO: Conduit Optimizer"
+filename = "enderio_conduit_opt-1.0.3-1.21.1.jar"
 
 [download]
-hash = 'ff76ab1ff4a8b980500e28cf2518d41b76d9b364'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "aa157882380456eda40be3e4abdcd0e15d5b87a7"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 8257983
+file-id = 8348095
 project-id = 1575307
-
-[[x-prismlauncher-dependencies]]
-addonId = '64578'
-type = 'REQUIRED'

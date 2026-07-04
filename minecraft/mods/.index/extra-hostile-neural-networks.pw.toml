@@ -1,25 +1,12 @@
-filename = 'extrahnn-1.21.1-2.1.3.jar'
-name = 'Extra Hostile Neural Networks'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'extrahnn-1.21.1-2.1.3'
+name = "Extra Hostile Neural Networks"
+filename = "extrahnn-1.21.1-2.2.2-NeoForge.jar"
 
 [download]
-hash = '61ea51c5d5aacad490442b7aecd64e3a3d4ae34e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "2cd460ff518cdbfbd86203ea035665b1f17da0f0"
+mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
-file-id = 8004396
+file-id = 8368478
 project-id = 1162278
-
-[[x-prismlauncher-dependencies]]
-addonId = '283644'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '552574'
-type = 'REQUIRED'

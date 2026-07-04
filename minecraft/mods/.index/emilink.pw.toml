@@ -1,12 +1,12 @@
 name = "EMILink"
-filename = "emilink-1.1.10.jar"
+filename = "emilink-1.1.12.jar"
 
 [download]
 hash-format = "sha1"
-hash = "a61f60ac1edb12cf6d9a8095b13c801e4d54d21e"
+hash = "1adc0beff8be7cf72f4b27d2727808f31528b3ff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8257857
+file-id = 8362654
 project-id = 1542052
