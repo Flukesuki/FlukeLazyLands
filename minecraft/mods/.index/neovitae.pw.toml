@@ -1,12 +1,12 @@
 name = "Neo Vitae"
-filename = "neovitae-1.21.1-1.0.26.jar"
+filename = "neovitae-1.21.1-1.1.15.jar"
 
 [download]
 hash-format = "sha1"
-hash = "a44a5a9d7e39841207445ee9000af27c8badb559"
+hash = "6d87d757bfe5e06b9c69ae5361a504b2ec7ffffd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8363388
+file-id = 8726059
 project-id = 1404763

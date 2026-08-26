@@ -1,12 +1,12 @@
 name = "BuildCraft UNOFFICIAL"
-filename = "BCunofficial-2026.1.1+mc1.21.1.jar"
+filename = "BCunofficial-2026.2.0-br2+mc1.21.1.jar"
 
 [download]
 hash-format = "sha1"
-hash = "f81860b7881f581c1b6bbc77a6fdbf020d475bf1"
+hash = "2c4849a29718977d93cafa7a71b38b35246318c1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8330382
+file-id = 8439631
 project-id = 1499367

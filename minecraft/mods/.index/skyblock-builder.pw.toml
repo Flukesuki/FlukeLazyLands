@@ -1,29 +1,12 @@
-filename = 'SkyblockBuilder-21.1.31.jar'
-name = 'Skyblock Builder'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'SkyblockBuilder-21.1.31.jar'
+name = "Skyblock Builder"
+filename = "SkyblockBuilder-21.1.34.jar"
 
 [download]
-hash = 'c13df34bb22a9862b82644ae85a84dc1b5d19cdb'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "b48b8b675f134e7f935b7f70578814780b2c99c9"
+mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
-file-id = 8209491
+file-id = 8589814
 project-id = 446691
-
-[[x-prismlauncher-dependencies]]
-addonId = '309927'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '460925'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '412525'
-type = 'REQUIRED'

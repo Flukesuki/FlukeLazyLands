@@ -1,13 +1,13 @@
 name = "Mekanism Card"
-filename = "mekanism_card-2.0.0.jar"
+filename = "mekanism_card-2.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "574a0b730ef7152cc2b5328be381bb533451452f"
+hash = "1471c7464b98d743b2017f5697cf1041c20396a7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8096705
+file-id = 8498626
 project-id = 1495058
