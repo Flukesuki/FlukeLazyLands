@@ -1365,6 +1365,11 @@ hash = "f37bdd4ee3ba3ebf4f2485676604d5ac57f129b32e8ae31624992fcc438148d7"
 metafile = true
 
 [[files]]
+file = "mods/.index/jei.pw.toml"
+hash = "333ca6577d11aea3091c87539def1b791bd626c10bb9695d758e0ddfd2c15e6b"
+metafile = true
+
+[[files]]
 file = "mods/.index/just-dire-things.pw.toml"
 hash = "9064ad42f3bc879a86c50b6fedda1f7c1337264d6027aa5db8439bfcb1e4934d"
 metafile = true
@@ -1557,11 +1562,6 @@ metafile = true
 [[files]]
 file = "mods/.index/mystical-agriculture.pw.toml"
 hash = "a11b736e7cc00c6611c777993a802cf245f39ee72c8b090e0623b757ad81f1ed"
-metafile = true
-
-[[files]]
-file = "mods/.index/neo-eco-ae-extension.pw.toml"
-hash = "cb243c990dc4ba1a3f6e6648e586f1778582f6a309f5c2a807ea5eb3266915ce"
 metafile = true
 
 [[files]]
@@ -1760,12 +1760,12 @@ hash = "38b0c14dde4e7be01359cd055d63a997b0b73d993a153c2114fc3d090d827c51"
 metafile = true
 
 [[files]]
-file = "mods/botania-neoforge-1.21.1-454-SNAPSHOT.jar"
-hash = "b672409f2cc73fd2227c6ec869466ad4731d3de11598e1201616c3a614610be2"
+file = "mods/botania-neoforge-1.21.1-454-20260618.183251-45.jar"
+hash = "62339ad3af80c73b28a34db764aeb62ce277297b063c54558c531862e351aa9b"
 
 [[files]]
-file = "mods/extrabotany-neoforge-1.21.1-1.9.2-SNAPSHOT.jar"
-hash = "89bdfd44a580c728149f7d56dfcc19fdfa72cedfa4f2aee7586e3411562b540a"
+file = "mods/extrabotany-2.0.0-1.21.1-NeoForge.jar"
+hash = "b872855e459161cbf56b6249cbcfa568f305ee80e858b023866c21eade8db96c"
 
 [[files]]
 file = "mods/flukelazylandscore-1.0.0.jar"
@@ -1776,8 +1776,8 @@ file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
 hash = "4c2181f99049844e71349913aaf3fea8b58ce081fee952616767676d1b6fa3b1"
 
 [[files]]
-file = "mods/toomanyrecipeviewers-0.9.1-dev.4+mc.21.1.jar"
-hash = "dba21863ec8c2e1367a2c0f2bd50431af9efe38f44ea4703f782ce1889c45dec"
+file = "mods/neoecoae-21.2.0-hotfix.jar"
+hash = "372ddf6971db7b96750b0a3ac496b77ba1938e0e57782fd42e779e52157be707"
 
 [[files]]
 file = "options.txt"
