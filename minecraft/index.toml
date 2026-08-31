@@ -1080,6 +1080,11 @@ hash = "f25668c2e804d60a2495b26af9de55a741ad01f183241fad198c7a14e864115e"
 metafile = true
 
 [[files]]
+file = "mods/.index/compact-crafting-updated.pw.toml"
+hash = "b50aba2ad9b83395833fe4718ea122b23c180e2061ccad4b9bbb9a27e8af4020"
+metafile = true
+
+[[files]]
 file = "mods/.index/compact-machines.pw.toml"
 hash = "c0659c56644c891d41181e103724b161b58c0e61ffdae11eb40493acb38ecaa4"
 metafile = true
@@ -1768,8 +1773,8 @@ file = "mods/extrabotany-2.0.0-1.21.1-NeoForge.jar"
 hash = "b872855e459161cbf56b6249cbcfa568f305ee80e858b023866c21eade8db96c"
 
 [[files]]
-file = "mods/flukelazylandscore-1.0.0.jar"
-hash = "d4acae8ad6ae1c7e992fa14ac541746ab1a34b3da962e36f0db70c4b8df3cd25"
+file = "mods/flukelazylandscore-1.0.1.jar"
+hash = "c2b29cb64e6e9811fadbcddbefbafc6e526c50b6623290f73cfc7a98173c40f2"
 
 [[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
