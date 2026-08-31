@@ -1,0 +1,19 @@
+filename = 'kubejs_naturesaura-1.0.3.jar'
+name = "KubeJS Nature's Aura"
+
+[download]
+hash = 'db1d61e6ba362625f03080c3c99e8c5411201ed4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7394963
+project-id = 1013074
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306626'
+type = 'REQUIRED'

@@ -1,0 +1,15 @@
+filename = 'buildcraftlocalizations-1.0.2+1.21.1-neoforge.jar'
+name = 'BuildCraft Community Edition: Localizations'
+
+[download]
+hash = 'f3e70f07ad4f4b8dda94b1a4f266d0faeeb1711a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 8677865
+project-id = 1640909
+
+[[x-prismlauncher-dependencies]]
+addonId = '1592400'
+type = 'REQUIRED'

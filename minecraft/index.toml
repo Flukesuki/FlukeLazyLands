@@ -913,6 +913,14 @@ file = "kubejs/server_scripts/BlockEventRightClick.js"
 hash = "3db5594e924b2470805cd756298a74da9c4e1d79d6b7592afcff3081fb826c05"
 
 [[files]]
+file = "kubejs/server_scripts/CompactCraftingRecipes.js"
+hash = "b3168fd630fd3ca6d1bcfd3c12d0a6ee0ad42b533f0b0bb143e99e4965702e77"
+
+[[files]]
+file = "kubejs/server_scripts/Events.js"
+hash = "bef23e3d38ca1752d133d485f16e0faf01fbf78e37af59f555e6522387c6bd78"
+
+[[files]]
 file = "kubejs/server_scripts/Recipe.js"
 hash = "e3058207b6fb82e7de1da5be55f8491184c749a6766f22b27252b8e0a16c6016"
 
@@ -985,6 +993,11 @@ hash = "7a0f9f39bf0002a7105642f4eeba4db7b189828903eefcd822d8317f0dc476cc"
 metafile = true
 
 [[files]]
+file = "mods/.index/aether.pw.toml"
+hash = "c113db7742176fe8cc2cbfa8a703f664f1c24a48399694c2811e60b5cf496fb9"
+metafile = true
+
+[[files]]
 file = "mods/.index/almanac.pw.toml"
 hash = "7d3ca503d1f1122a88c674cb5f2d9a0df555bad13351bd03e714c64fe3fa1660"
 metafile = true
@@ -1050,8 +1063,13 @@ hash = "fc0ed831eb49047eaeae0a69a3707d5a7a96a0a255ab09a24c0773977fc5b0be"
 metafile = true
 
 [[files]]
-file = "mods/.index/buildcraft-unofficial.pw.toml"
-hash = "50cd981ae7b300aa8c93f8b06121af976d1655422dc77ccec5ea0d3bbe9dbb85"
+file = "mods/.index/buildcraft-community-edition-localizations.pw.toml"
+hash = "3c8a6eddcbe104b53c03befb4de1fe05f748e8f353573189ab6761a50e9e891d"
+metafile = true
+
+[[files]]
+file = "mods/.index/buildcraft-community-edition.pw.toml"
+hash = "56e407f6f443fd54dc18d5751327c2252e9f4fa9987ee152fe370dd567f440a9"
 metafile = true
 
 [[files]]
@@ -1081,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/compact-crafting-updated.pw.toml"
-hash = "b50aba2ad9b83395833fe4718ea122b23c180e2061ccad4b9bbb9a27e8af4020"
+hash = "b73235902d834bd5d4e029a215efe19456a3c8c7410ec47e76acb79e09948b16"
 metafile = true
 
 [[files]]
@@ -1360,6 +1378,11 @@ hash = "be660436c79b2406a59cb7a75bb72719b49894d2ea4d550eaaa40a322f62e05f"
 metafile = true
 
 [[files]]
+file = "mods/.index/iron-furnaces.pw.toml"
+hash = "58c258fd5e1a932937cba4ecbe3e062ae5e1af294c8914354fd5d0c63f4bf4c3"
+metafile = true
+
+[[files]]
 file = "mods/.index/jade.pw.toml"
 hash = "295f6f68a613dbbbbc353190b3b382a7356ad6c6c2426c29488eb061181a74ce"
 metafile = true
@@ -1422,6 +1445,11 @@ metafile = true
 [[files]]
 file = "mods/.index/kubejs-mekanism.pw.toml"
 hash = "9145b07fcc1c589a1a8ff632aa8ffa7ddd9cae8c86cc95ca239daf2f0d28f67f"
+metafile = true
+
+[[files]]
+file = "mods/.index/kubejs-natures-aura.pw.toml"
+hash = "99fcb60d7b6f1a245ff4ef662cb0118a86d30296ab430991873e109efdcfddfa"
 metafile = true
 
 [[files]]
@@ -1567,6 +1595,11 @@ metafile = true
 [[files]]
 file = "mods/.index/mystical-agriculture.pw.toml"
 hash = "a11b736e7cc00c6611c777993a802cf245f39ee72c8b090e0623b757ad81f1ed"
+metafile = true
+
+[[files]]
+file = "mods/.index/natures-aura.pw.toml"
+hash = "43013a7220a251d02b9f8787908c1823644c85f6fc6cd6cc736f37d245d6650b"
 metafile = true
 
 [[files]]

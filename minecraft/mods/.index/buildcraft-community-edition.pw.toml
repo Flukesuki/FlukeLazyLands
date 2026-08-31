@@ -1,0 +1,15 @@
+filename = 'BuildCraft-Community-Edition-8.0.17+1.21.1+neoforge.jar'
+name = 'BuildCraft Community Edition'
+
+[download]
+hash = '69694a005be206334c39d8a18d677ebbd9fd26a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 8709018
+project-id = 1592400
+
+[[x-prismlauncher-dependencies]]
+addonId = '1640909'
+type = 'OPTIONAL'
