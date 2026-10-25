@@ -1803,8 +1803,18 @@ hash = "88329d424bbabb5f39558c2cd33b7ccf5c6027de148d433cd4904ce08e88660c"
 metafile = true
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "9009bd5cdcdbc6bc47a7fbb203844d9a551accdd796877bdba5233ac14bbd513"
+metafile = true
+
+[[files]]
 file = "mods/botania-neoforge-1.21.1-454-20260618.183251-45.jar"
 hash = "62339ad3af80c73b28a34db764aeb62ce277297b063c54558c531862e351aa9b"
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+metafile = true
 
 [[files]]
 file = "mods/extrabotany-2.0.0-1.21.1-NeoForge.jar"
@@ -1815,8 +1825,18 @@ file = "mods/flukelazylandscore-1.0.1.jar"
 hash = "c2b29cb64e6e9811fadbcddbefbafc6e526c50b6623290f73cfc7a98173c40f2"
 
 [[files]]
+file = "mods/kubejs-astralsorcery.pw.toml"
+hash = "bd5bbb552f758b463102e98a894393ea0e8910692cf851fe33e7f2397edf1252"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
 hash = "4c2181f99049844e71349913aaf3fea8b58ce081fee952616767676d1b6fa3b1"
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "00bacfc5a98d9b0dff90bbad503def28abf970a2061c9456f721e442bc32ab29"
+metafile = true
 
 [[files]]
 file = "mods/modular-machinery-community-refoxed.pw.toml"
@@ -1830,6 +1850,11 @@ hash = "372ddf6971db7b96750b0a3ac496b77ba1938e0e57782fd42e779e52157be707"
 [[files]]
 file = "mods/observerlib.pw.toml"
 hash = "ff407a1e06ce5a70fd10e60a9c822a69d2722d8d1b5751918ff65145a976036e"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
 metafile = true
 
 [[files]]
