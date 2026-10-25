@@ -1798,6 +1798,11 @@ hash = "38b0c14dde4e7be01359cd055d63a997b0b73d993a153c2114fc3d090d827c51"
 metafile = true
 
 [[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "88329d424bbabb5f39558c2cd33b7ccf5c6027de148d433cd4904ce08e88660c"
+metafile = true
+
+[[files]]
 file = "mods/botania-neoforge-1.21.1-454-20260618.183251-45.jar"
 hash = "62339ad3af80c73b28a34db764aeb62ce277297b063c54558c531862e351aa9b"
 
@@ -1814,8 +1819,18 @@ file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
 hash = "4c2181f99049844e71349913aaf3fea8b58ce081fee952616767676d1b6fa3b1"
 
 [[files]]
+file = "mods/modular-machinery-community-refoxed.pw.toml"
+hash = "05ae8fe4bb6fce4f94017872d827691aa9de506c27fd8c341876f1d34d8ded54"
+metafile = true
+
+[[files]]
 file = "mods/neoecoae-21.2.0-hotfix.jar"
 hash = "372ddf6971db7b96750b0a3ac496b77ba1938e0e57782fd42e779e52157be707"
+
+[[files]]
+file = "mods/observerlib.pw.toml"
+hash = "ff407a1e06ce5a70fd10e60a9c822a69d2722d8d1b5751918ff65145a976036e"
+metafile = true
 
 [[files]]
 file = "options.txt"
