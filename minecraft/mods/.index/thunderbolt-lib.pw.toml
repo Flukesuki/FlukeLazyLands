@@ -1,15 +1,12 @@
-filename = 'thunderbolt-2.0.0-beta.1.jar'
-name = 'Thunderbolt Core'
+name = "Thunderbolt Core"
+filename = "thunderbolt-2.0.3-beta3.jar"
 
 [download]
-hash = 'e6ab3350ae18c4bc7876fef5ecc7cf93054f7517'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "b3d5cced6dd06609e46a14eb39c8b735e70388b5"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 8729155
+file-id = 9270338
 project-id = 1631756
-
-[[x-prismlauncher-dependencies]]
-addonId = '223794'
-type = 'REQUIRED'

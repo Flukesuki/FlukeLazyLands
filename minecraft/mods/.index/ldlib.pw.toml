@@ -1,12 +1,12 @@
 name = "LDLib"
-filename = "ldlib2-neoforge-1.21.1-2.2.37-all.jar"
+filename = "ldlib2-neoforge-1.21.1-2.2.44-all.jar"
 
 [download]
 hash-format = "sha1"
-hash = "fd914403c69e451cd7446908d5730cac7412bf54"
+hash = "39d4b7c1fba4ed56d5680b7acd0e559690c4e763"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8724783
+file-id = 9304898
 project-id = 626676

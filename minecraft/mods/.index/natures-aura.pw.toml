@@ -1,19 +1,12 @@
-filename = 'NaturesAura-41.9.jar'
 name = "Nature's Aura"
+filename = "NaturesAura-41.10.jar"
 
 [download]
-hash = '466fba5d58430792f8564d4466ed486e28795c83'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "58e4f9a07e5320432d11aaa3d876337edeeeb8db"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 6948833
+file-id = 8809415
 project-id = 306626
-
-[[x-prismlauncher-dependencies]]
-addonId = '306770'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '1037991'
-type = 'OPTIONAL'

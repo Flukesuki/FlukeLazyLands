@@ -1,18 +1,13 @@
-filename = 'classicbar-1.21.1-1.5.3.jar'
-name = 'Classic Bar Unofficial'
-side = 'client'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.5.3'
+name = "Classic Bar Unofficial"
+filename = "classicbar-1.21.1-1.5.6.jar"
+side = "client"
 
 [download]
-hash = '7c89d913cdc49a11e1a3f7cd540621985a5af9cea41c4452365c882144cd64eaa98d193fddd2c05b312fd38e20e5fd42092ed7995834a8e1ae9eff30d19546e0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/FhdcxNf6/versions/2q0mDWwV/classicbar-1.21.1-1.5.3.jar'
+url = "https://cdn.modrinth.com/data/FhdcxNf6/versions/E82RBsIk/classicbar-1.21.1-1.5.6.jar"
+hash-format = "sha512"
+hash = "a1e93cc474c192127e6171c858cdb75b70789ba642285f9183c45d35f716777b7b3fe00450947b8a087c27a8c8ea726b901f3695cd7df119ea889fda85102d45"
 
+[update]
 [update.modrinth]
-mod-id = 'FhdcxNf6'
-version = '2q0mDWwV'
+mod-id = "FhdcxNf6"
+version = "E82RBsIk"

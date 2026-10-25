@@ -1,21 +1,12 @@
-filename = 'owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar'
-name = 'oωo (owo-lib)'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '[1.21.1] oωo - neo - 0.12.15.5-beta.1+1.21'
+name = "oωo (owo-lib)"
+filename = "owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar"
 
 [download]
-hash = '48dda11a6710591cf162bdbedf982ea21dd1f2ed'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "3a7f843ce3a4d24f8765a74bc5dde914b316b992"
+mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
-file-id = 6785734
+file-id = 9215303
 project-id = 532610
-
-[[x-prismlauncher-dependencies]]
-addonId = '889079'
-type = 'EMBEDDED'

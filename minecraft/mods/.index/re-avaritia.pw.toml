@@ -1,12 +1,12 @@
 name = "Re:Avaritia[Forge/Fabric/Neoforge]"
-filename = "Re-Avaritia-neoforge-1.21.1-1.4.1-release.jar"
+filename = "Re-Avaritia-neoforge-1.21.1-1.4.2-release.jar"
 
 [download]
 hash-format = "sha1"
-hash = "6cc663fa2afe356ab3be8c9616df5f1d7e0e259c"
+hash = "97d344f2b455f96d2038a1f833eac6d7bc3dbbac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8498772
+file-id = 8838599
 project-id = 623969

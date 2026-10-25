@@ -1,12 +1,12 @@
 name = "AE2 WCWT"
-filename = "wcwt-1.3.8.jar"
+filename = "wcwt-1.3.10.jar"
 
 [download]
 hash-format = "sha1"
-hash = "02b41fab2e7507edb9c98aa43f750bf466010880"
+hash = "543667ca872757b6c045c82b62ac66fcb8bbe78f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8692608
+file-id = 8970875
 project-id = 1546802
