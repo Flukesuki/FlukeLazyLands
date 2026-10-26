@@ -1483,6 +1483,11 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/.index/lithostitched.pw.toml"
+hash = "93f98a3019a5ce1bda97af2c3e937aaa2adbe4e4dce46e74b130d32cbfdc80a2"
+metafile = true
+
+[[files]]
 file = "mods/.index/lmd.pw.toml"
 hash = "347508b92ec94d5a04798c80875044db34cb38b0915fd5a42221ca0df22b5e1e"
 metafile = true
@@ -1826,11 +1831,6 @@ hash = "c2b29cb64e6e9811fadbcddbefbafc6e526c50b6623290f73cfc7a98173c40f2"
 [[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
 hash = "4c2181f99049844e71349913aaf3fea8b58ce081fee952616767676d1b6fa3b1"
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "93f98a3019a5ce1bda97af2c3e937aaa2adbe4e4dce46e74b130d32cbfdc80a2"
-metafile = true
 
 [[files]]
 file = "mods/thaumaturge-1.21.1-NeoForge-1.0.6.jar"
