@@ -1,0 +1,11 @@
+filename = 'neoecoae-21.2.10.jar'
+name = 'Neo ECO AE Extension'
+
+[download]
+hash = '13592f07920825daa247767672b65c179529ded9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 9317271
+project-id = 1460639
