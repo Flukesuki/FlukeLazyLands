@@ -1,5 +1,5 @@
 .idea
-minecraft/启动打包.bat
+minecraft/*.bat
 minecraft/.packwiz-installer/overrides.ignore
 .packwiz-installer/overrides.ignore
 minecraft/FlukeLazyLands*

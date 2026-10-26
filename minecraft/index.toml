@@ -1839,3 +1839,15 @@ hash = "f0f3726aafe747b7f8885691c4022034794b762a7022ddec1398ee8fdfc5819e"
 [[files]]
 file = "options.txt"
 hash = "c4efd80734c1ddaa6500693a42931f1f9818db06495174394cadcf882f9296be"
+
+[[files]]
+file = "一键更新mods.bat"
+hash = "180abb562282ea8f30e63d17dc92e5456fe8a944b9493c41052d84b47e490400"
+
+[[files]]
+file = "打包.bat"
+hash = "299a8f49b86c472812f27764cb3c7847828fa0f5e85b76e85a34486547b3a9ab"
+
+[[files]]
+file = "重建索引.bat"
+hash = "87b2313b331d3d96b61a7c7d043c262c1872853d1bae66f074b4458a53237074"
