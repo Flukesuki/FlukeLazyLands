@@ -1828,5 +1828,14 @@ file = "mods/kubejs-neoforge-2101.7.2-build.369.jar"
 hash = "4c2181f99049844e71349913aaf3fea8b58ce081fee952616767676d1b6fa3b1"
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "93f98a3019a5ce1bda97af2c3e937aaa2adbe4e4dce46e74b130d32cbfdc80a2"
+metafile = true
+
+[[files]]
+file = "mods/thaumaturge-1.21.1-NeoForge-1.0.6.jar"
+hash = "f0f3726aafe747b7f8885691c4022034794b762a7022ddec1398ee8fdfc5819e"
+
+[[files]]
 file = "options.txt"
 hash = "c4efd80734c1ddaa6500693a42931f1f9818db06495174394cadcf882f9296be"
