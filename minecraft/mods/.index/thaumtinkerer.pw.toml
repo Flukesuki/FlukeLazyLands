@@ -1,0 +1,13 @@
+name = "Thaumaturge Tinkerer (Thaumic Tinkerer)"
+filename = "thaumaturge_tinkerer-1.21.1-0.2.1-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db3fe52a7581d0cbe36fcd786d50000eeac01d64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9527250
+project-id = 1793843

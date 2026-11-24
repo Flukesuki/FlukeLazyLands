@@ -1,20 +1,12 @@
-filename = 'kubejs_actuallyadditions-neoforge-1.21.1-0.3.0.jar'
-name = 'KubeJS Actually Additions'
+name = "KubeJS Actually Additions"
+filename = "kubejs_actuallyadditions-neoforge-1.21.1-0.4.0.jar"
 
 [download]
-hash = '75dc853d2c2483f8719070904d187864c8c9ed8e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "e55dc9dcc1a1f56c81b3041344d293dc02d12bc0"
+mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
-file-id = 7159465
+file-id = 9701524
 project-id = 1126546
-
-[[x-prismlauncher-dependencies]]
-addonId = '228404'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '238086'
-type = 'REQUIRED'

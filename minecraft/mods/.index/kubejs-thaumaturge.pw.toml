@@ -1,0 +1,13 @@
+name = "KubeJS Thaumaturge"
+filename = "kubejs_thaumaturge-1.21.1-NeoForge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf878d44bb90cf9bd34661c7aed39a4dc8922b1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9646870
+project-id = 1632302

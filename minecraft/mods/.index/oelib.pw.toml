@@ -1,12 +1,12 @@
 name = "One Enough Lib"
-filename = "oelib-neoforge-1.21.1-0.3.0-hotfix2.jar"
+filename = "oelib-neoforge-1.21.1-0.3.2.jar"
 
 [download]
 hash-format = "sha1"
-hash = "44c86fa6eab31625f82d50019bffbe6df131f355"
+hash = "1a7131618d5b3e2030729e149098e2f3114dd43e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9299750
+file-id = 9486535
 project-id = 1319210
