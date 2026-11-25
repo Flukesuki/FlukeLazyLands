@@ -1,0 +1,18 @@
+filename = 'mezz_config-1.21.1-neoforge-0.7.1-standalone.jar'
+name = 'MezzConfig'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'MezzConfig 0.7.1 for NeoForge 1.21.1'
+
+[download]
+hash = '2382e29c9a0f44d4f4b9baa4cb3f6a356e048e60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9527937
+project-id = 1689768

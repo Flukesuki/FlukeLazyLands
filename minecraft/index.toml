@@ -1208,6 +1208,11 @@ hash = "c5073874b8ab7e3c26e5432844548fe95eec95fb5baf503608ac502f8d62df20"
 metafile = true
 
 [[files]]
+file = "mods/.index/emilink.pw.toml"
+hash = "f5ba2a9c3e658cc9013260133db568a04a599338f13f0ae894a50148053b0d4c"
+metafile = true
+
+[[files]]
 file = "mods/.index/ender-io-conduit-optimizer.pw.toml"
 hash = "5d053796380e8b5b2bda1c99b2b0b9a0e311148484ed2b50fa8f3c4525177161"
 metafile = true
@@ -1592,6 +1597,11 @@ hash = "b3cd10e63f27d692910a62ce5a307161ce32d2bc6d7501ebafba2171da486155"
 metafile = true
 
 [[files]]
+file = "mods/.index/mezzconfig.pw.toml"
+hash = "64fed8f777596586a1e3b61adf3977e6f143986ffd2fa86ef5e88f0661c3e2c6"
+metafile = true
+
+[[files]]
 file = "mods/.index/midnightlib.pw.toml"
 hash = "f7198ef16f4eefbe80ffd1d8ac7c2d323da4e68faf916a8b4b9c3e40f0913b80"
 metafile = true
@@ -1866,10 +1876,6 @@ file = "mods/botania-neoforge-1.21.1-456-20260822.093314-4.jar"
 hash = "7ea12cdb4e0f855a94d9620b5325a7449b62a010d16c23284bd5191e8b788237"
 
 [[files]]
-file = "mods/emilink-21.1.16.jar.disabled"
-hash = "f095d0ba60414680661662b15b0d9f9733194ef8cd5ae0b2376c0fe5950a46b1"
-
-[[files]]
 file = "mods/extrabotany-neoforge-1.21.1-2.0-scex.9-dev.jar"
 hash = "fd1337608ca04deda195ce5bf8fcd85355c3779bc8808c4c49a20c314557487a"
 
@@ -1880,15 +1886,3 @@ hash = "c2b29cb64e6e9811fadbcddbefbafc6e526c50b6623290f73cfc7a98173c40f2"
 [[files]]
 file = "options.txt"
 hash = "c4efd80734c1ddaa6500693a42931f1f9818db06495174394cadcf882f9296be"
-
-[[files]]
-file = "一键更新mods.bat"
-hash = "180abb562282ea8f30e63d17dc92e5456fe8a944b9493c41052d84b47e490400"
-
-[[files]]
-file = "打包.bat"
-hash = "299a8f49b86c472812f27764cb3c7847828fa0f5e85b76e85a34486547b3a9ab"
-
-[[files]]
-file = "重建索引.bat"
-hash = "87b2313b331d3d96b61a7c7d043c262c1872853d1bae66f074b4458a53237074"
